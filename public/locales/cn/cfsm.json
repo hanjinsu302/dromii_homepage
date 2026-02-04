@@ -1,0 +1,21 @@
+{
+  "title": "CfSM",
+  "description": "An innovative service that will replace the traditional road monitoring system",
+  "section1": {
+    "title": "Capture",
+    "description": "Capture enough data to create a dataset using the drone.\n\nThe data type must be in image format."
+  },
+  "section2": {
+    "title": "Combine",
+    "description": "Combine the tile dataset into one whole road image for the preparation of data processing."
+  },
+  "section3": {
+    "title": "Process",
+    "description": "Process the dataset through CfSM solution to get rid of car/shadow images from the road. \n\nThe successful result would have a clear road without any distortion."
+  },
+  "section4": {
+    "title": "Monitor",
+    "description": "Monitor the status of the road using CfSM processed image. \n\nDetect the condition of the road by running an analysis on the server."
+  }
+}
+

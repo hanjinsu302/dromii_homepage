@@ -1,0 +1,280 @@
+.MainPlatformContainer {
+    width: 100%;
+    height: max-content;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(2, 1fr) 0.5fr repeat(4, 1fr);
+    }
+    .MainPlatformLM,
+    .MainPlatformBox1,
+    .MainPlatformBox2,
+    .MainPlatformBox3,
+    .MainPlatformBox4{   
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        color: white;
+    }
+    .MainPlatformBg { grid-area: 1 / 1 / 7 / 13;; 
+       
+    }
+    .MainPlatformBg2 { grid-area: 6 / 1 / 8 / 13;; 
+    
+    }
+    .MainPlatformTT { 
+        display: flex;
+        align-items: end;
+        grid-area: 1 / 2 / 2 / 5; 
+        font-size: 3vw;
+        color: black;
+    }
+
+    
+    .MainPlatformDS {
+         grid-area: 2 / 2 / 3 / 10;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        line-height: 2vw;
+        
+   }
+    .MainPlatformLM { 
+        grid-area: 1 / 4 / 2 / 5;
+        display: flex;
+        padding-top: 5.5vw;
+        font-size: 1vw;
+        padding-right: 2.5vw;
+    }
+    .MainPlatformLink{
+        font-size: 1.5vw;
+    }
+    .MainPlatformBox1 { grid-area: 4 / 1 / 8 / 4;
+    background-color: rgba(35, 48, 103, 1);
+    margin-bottom: -2vw;
+}
+    .MainPlatformBox2 { grid-area: 4 / 4 / 8 / 7; 
+    background-color: rgba(23, 31, 68, 1);
+    margin-bottom: -2vw;}
+    .MainPlatformBox3 { grid-area: 4 / 7 / 8 / 10;
+    background-color: rgba(35, 48, 103, 1);
+    margin-bottom: -2vw;}
+    .MainPlatformBox4 { grid-area: 4 / 10 / 8 / 13;
+        background-color: rgba(23, 31, 68, 1);
+        margin-bottom: -2vw;}
+    .About{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 7vw;
+        padding: 0.8vw 0.1vw;
+        font-size: 1vw;
+        border-radius: 0.2vw;
+        margin-top: 5vw;
+        color: rgba(35, 48, 103, 1);
+        font-weight: 600;
+        border: 0.15vw solid rgba(35, 48, 103, 1);
+    }
+    .About:hover{
+        background-color: rgba(35, 48, 103, 1);
+        color: white;
+
+    }
+    .box_p{
+        margin-top: 8vw;
+    }
+    .main_p{
+        font-size: 1vw;
+        text-align: center;
+        margin-top: 2vw;
+        line-height: 1.5vw;
+    }
+
+    .Sw_Container{
+        width: 100%;
+        height: max-content;
+        background-color: rgb(255, 255, 255);
+        
+    }
+    .Sw_title{
+        width: 90%;
+        display: flex;
+        align-items: center;
+        padding: 1vw 1vw;
+        font-size: 1.8vw;
+        font-weight: 800;
+        margin-left: 5vw;
+    }
+    .btnContainer{
+        width: 90%;
+        display: flex;
+        margin-left: 6vw;
+    }
+    .Prolink{
+        margin-left: 1.2vw;
+        font-size: 1.2vw;
+        font-weight: 500;
+        color: rgb(124, 124, 124);
+    }
+
+    .screen,
+    .screen2{
+        margin-left: 5vw;
+        width: 89%;
+        display: flex;
+        overflow: hidden;
+        overflow-x: scroll;
+    }
+    
+
+    .softBox{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 20vw;
+        height: 18vw;
+    
+    }
+    .Sw_ImgBox{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 5vw;
+    }
+    .conact_p{
+        margin: 8vw;
+        border: 2px solid black;
+        padding: 1vw 2vw;
+        font-size: 3vw;
+        border-radius: 1vw;
+
+    }
+
+
+    .News_Container{
+        width: 100%;
+        height: max-content;
+        background-color: rgb(255, 255, 255);
+    
+        
+    }
+    .News_ImgContainer {
+        margin-left: 5vw;
+        width: 89%;
+        display: flex;
+        overflow: hidden;
+        overflow-x: scroll;
+    
+        /* 스크롤바 숨기기 */
+        scrollbar-width: none; /* Firefox */
+        -ms-overflow-style: none; /* IE and Edge */
+    }
+    .News_ImgContainer::-webkit-scrollbar {
+        display: none; /* Chrome, Safari, and Edge */
+    }
+
+
+    .News_ImgBox{
+        display: flex;
+        flex-wrap: wrap;
+        margin-right: 5vw;
+        height: 20vw;
+        display: flex;
+        align-items: center;
+    }
+
+
+
+    .newsBox{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 18vw;
+        height: 15vw;
+        flex-direction: column;
+        border-radius: 10px;
+        /* box-shadow: 0 1px 3px rgba(0,0,0,0.12),
+        0 1px 2px rgba(0,0,0,0.24);
+        transition:  all 0.3s cubic-bezier(.25,.8,.25,1); */
+
+    }
+    /* .newsBox:hover{
+        box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    } */
+
+    .newsImgBox{
+        width:100%;
+        height:65%;
+        overflow: hidden;
+        border-radius: 10px;
+        border: 1px solid rgba(0,0,0,0.12);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .newsImgs{
+        width:100%;
+        border-radius: 10px;
+        transition: transform 0.3s ease-in-out; /* 부드러운 애니메이션 효과 */
+        
+    }
+    .newsImgs:hover{
+        transform: scale(1.1);
+    }
+    .newsInfo{
+        width:100%;
+        height:35%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding: 0.4vw 0.2vw;
+    }
+
+    .newsInfoText {
+        font-size: 0.7vw;
+        font-weight: 800;
+
+    }
+    
+    .newsInfoTitle {
+        padding-bottom: 2px;
+        font-size: 0.8vw;
+        font-weight: 700;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .newsInfoYears{
+        font-size: 0.6vw;
+        font-weight: 600;
+        color: rgb(148, 143, 143);
+    }
+
+
+    .prevBtn, .nextBtn {
+        position: absolute;
+        margin-top: 5.5vw;
+        color: black;
+        border: none;
+        cursor: pointer;
+        font-size: 2vw;
+        border-radius: 5%;
+      }
+      
+      .prevBtn { 
+        left: 2.5vw; 
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+      .nextBtn { 
+        right: 2.5vw; display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+      
+      .prevBtn:hover, .nextBtn:hover {
+        /* background: rgba(0, 0, 0, 0.8); */
+      }
+
+   

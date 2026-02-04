@@ -1,0 +1,90 @@
+.slider_container {
+  
+    width: 70%;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+    position: relative;
+    /* margin: 0 auto; */
+    overflow: hidden;
+    
+  }
+  
+  .sub_images {
+    width: 150%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+  }
+  
+  .sub_image {
+    width: 150%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    width:max-content;
+    opacity: 0.5;
+    margin: 15vw;
+  }
+  
+  .sub_image img {
+    width: 50%; /* 이미지의 절반만 보이도록 설정 */
+  }
+  
+  .prev_button,
+  .next_button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: transparent;
+    border: none;
+    font-size: 5vw;
+    cursor: pointer;
+    z-index: 1;
+    color: rgb(133, 132, 132);
+  }
+  .prev_button:hover{
+    color: black;
+  }
+
+  .next_button:hover{
+    color: black;
+  }
+  
+  .prev_button {
+    left: 18vw; /* 이전 버튼의 위치 조정 */
+  }
+  
+  .next_button {
+    right: 18vw; /* 다음 버튼의 위치 조정 */
+  }
+  
+  .main_image {
+    flex: 1;
+    margin: 0 20vw; /* 메인 이미지의 여백 조정 */
+  }
+  
+  .main_image img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .image_wrapper {
+    height: max-content; /* 원하는 높이로 설정 */
+  }
+
+  .screen{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5vw;
+  }

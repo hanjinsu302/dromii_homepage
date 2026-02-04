@@ -1,0 +1,33 @@
+{
+  "menu1": {
+    "name": "PLATFORM",
+    "depth2": { "menu1": "Platform", "menu2": "Example", "menu3": "Drone map" }
+  },
+  "menu2": {
+    "name": "SOLUTIONS",
+    "depth2": {
+      "menu2": "DaaS Pano",
+      "menu3": "3D Samples",
+      "menu4": "Processing \n Results",
+      "menu5": "Example",
+      "menu6": "Drone Map"
+    }
+  },
+  "menu3": "SOFTWARE",
+  "menu4": {
+    "name": "HARDWARE",
+    "depth2": {
+      "menu1": "Sales Products",
+      "menu2": "Operational Products",
+      "menu3": "Sensors"
+    }
+  },
+  "menu5": "ABOUT",
+  "menu6": "CONTACT",
+  "menu7":"PRODUCTS",
+  "footer1":"Privacy Statement",
+  "footer2":"Internal information management regulations",
+  "footer3":"Video information processing device operation management policy",
+  "v1":"For corporate API users only",
+  "v2":"For general users only"
+}

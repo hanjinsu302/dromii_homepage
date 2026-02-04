@@ -1,0 +1,73 @@
+.SamplesDS { grid-area: 3 / 1 / 5 / 8; 
+    color: white;
+    font-size: 1.2vw;
+    line-height: 1.7vw;
+    margin-left: 8vw;
+    margin-top: 5vw;
+}
+.SamplesHD { grid-area: 1 / 1 / 2 / 9; }
+.btnContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.SamplesContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 3vw;
+    width: 100%;
+    height: max-content;
+}
+.SamplesItem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 23vw;
+    height: 18vw;
+    border-radius: 1vw;
+    margin: 3vw;
+    border: 2px solid rgb(151, 151, 151);
+}
+
+.SamplesItemImg{
+    width:95%;
+    height: 70%;
+    margin-bottom: 2vw;
+    
+}
+.skillDS { grid-area: 4 / 2 / 4 / 5;
+    font-size: 1.2vw;
+    margin-left: 8vw;
+    margin-top: 1.5vw;
+ }
+.skillDS2 { grid-area: 4 / 5 / 4 / 8; 
+    font-size: 1.2vw;
+    margin-left: 8vw;
+    margin-top: 1.5vw;
+}
+
+
+
+
+
+.CfMSdesction { grid-area: 3 / 1 / 4 / 6;
+    font-size: 1.8vw;
+    margin-left: 4vw;
+    line-height: 2vw; 
+    padding-left: 2vw;
+}
+.CfMSImg{ grid-area: 4 / 1 / 9 / 9; 
+    padding-left: 5vw;
+    padding-right: 5vw;
+    height: max-content;
+}
+.CfMSdesction{
+    font-size: 1.3vw;
+   
+    font-weight: 600;
+   
+    line-height: 2vw; 
+
+}

@@ -1,0 +1,49 @@
+{
+  "title": "拍摄选辑",
+  "description": "",
+  "section1": {
+    "title": "服务",
+    "description": "Removes car images on the road using the deep learning technique and drone-taken images.",
+    "section1": {
+      "title": "CAR-FREE STREET MAPPING",
+      "description": "Removes car images on the road using the deep learning technique and drone-taken images. "
+    },
+    "section2": {
+      "title": "3D MODELING",
+      "description": "Creates 2.5D to 3D models from the drone-taken images using the multi-directional cameras. "
+    },
+    "section3": {
+      "title": "HD SAFETY MAPPING",
+      "description": "Creates simulation data for autonomous vehicles by gathering road information such as crosswalk, center line, and stop lines from real drone-taken images. "
+    },
+    "section4": {
+      "title": "AUTOMATIC DATA PROCESSING",
+      "description": "Distributes data processing step using the Node to automate the processing. "
+    }
+  },
+  "section2": {
+    "title": "全景摄影",
+    "description": ""
+  },
+  "section3": {
+    "title": "3D 映射",
+    "description": ""
+  },
+  "section4": {
+    "title": "空中摄影",
+    "description": ""
+  }
+  ,
+  "cfsm":{
+    "section1":{
+      "title":"",
+      "description": "Based on CfSM, it removes cars using deep learning algorithms,\nand those integrated images are combined to make car-free street maps.\nAlso, it could be used for self-driving car simulation data\nwith the real road information and HD Safety Map."
+    }
+  },
+  "panorama":{
+    "section1":{
+      "title":"",
+      "description": "Makes HTML5-based results from several images going through 360° Panoramic platform and a real-time auto-process (with mosaic and color correction process, etc.), which automatically sends the result to users in any OS & device."
+    }
+  }
+}

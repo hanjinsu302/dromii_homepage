@@ -1,0 +1,54 @@
+.ContactContainer{
+    width: 100%;
+    height:auto;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.ContactFormContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%; 
+}
+.contactimg{
+    width:33%;
+    margin-right: 10vw;
+}
+
+
+.MapContainer{
+    margin-top: 3vw;
+    display: flex;
+    padding-left: 15vw;
+    align-items: center;
+    width: 100%; 
+}
+
+
+@media (max-width: 1200px) {
+    .ContactFormContainer{
+        flex-direction: column;
+        align-items: center;
+    }
+    .contactimg{
+        margin-bottom: 5vw;
+        margin-right: 0;
+    }
+    
+}
+
+@media (max-width: 900px) {
+    .MapContainer{
+        flex-direction: column;
+        align-items: center;
+        
+    
+    }
+    
+}
+
+
+
+
+

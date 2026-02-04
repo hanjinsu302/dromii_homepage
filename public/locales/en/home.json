@@ -1,0 +1,25 @@
+{
+  "Main" :{
+    "title": "What is DroMii?",
+    "description":"WE TAKE Geo-Spatial Data FROM ABOVE",
+    "description2":"Effective and Efficient Method for collecting Data by using Drone",
+    "description3":"Drone surveying is way more productive than traditional types of surveying. \n It can be used in various fields, including road maintenance, environment, and future industries. \n Try DroMii's platform to get the information you want with URL, without software."
+  },
+  "Platform": {
+    "title" :"PLATFORM",
+    "description":"Various spatial information and services are provided through video information captured by drones. \n You can easily use them anytime, anywhere.",
+    "DaaS": "Provides 3D and Pano from drone images that are used for building \nspatial information.\nProvides an efficient way to get results through URL by producing a variety of analyses and reports.",
+    "DTM": "Utilize machine learning on the basis of road information taken with road drones.\nPredicts and manages the status of various facilities and provides the connection with existing systems",
+    "CfSM": "Creates car-free, high-precision maps based on DTM AI",
+    "AfGG": "AfGG solution creates an HDS\n(High-Definition Safety) Map \nwith road marking information.\nAfGG solution utilizes DTM ML to auto label the road markings (double yellow line, crosswalk, stop line, etc.) or detect risk factors (pothole, crack, etc.) \nto gather road information."
+  },
+  "Advantages": {
+    "Convenient": "Provides 3D and Pano from drone images\nthat are used for building spatial information\nin a form of URL for easier access to analyses and reports.\nUploads the images taken for building 3D spatial\ndata to the platform with simple 'drag & drop'.",
+    "Automation": "The whole process automated with a parallel processing-based network provides various data analysis and reports.\nMakes HTML5-based results from several images going through 360° Panoramic platform and a real-time auto-process (with mosaic and color correction process, etc.), which automatically sends the result to users in any OS & device.",
+    "DeepLearning": "Based on drones, artificial intelligence, big data, and blockchain, DTM provides a state-based management optimization system for various facilities and connections with existing systems.\nBased on DTM ML, it removes cars using deep learning algorithms, and those integrated images are combined to make car-free street maps."
+  },
+  "Product": {
+    "software": "Software",
+    "hardware": "Hardware"
+  }
+}

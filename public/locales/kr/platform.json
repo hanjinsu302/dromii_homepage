@@ -1,0 +1,44 @@
+{
+  "title": "플랫폼",
+  "description": "드론에 의한 영상정보를 통해 다양한 공간정보 및 서비스를 제공합니다.\n언제 어디서나 쉽게 사용할 수 있습니다.",
+  "section1": {
+    "title": "DaaS",
+    "section1": {
+      "title": "Drone as a Service",
+      "description": "드론 영상으로 만든 3D 및 파노라마 결과물로 공간정보를 구축, 분석결과와 리포트를 편리하게 URL로 제공합니다. "
+    },
+    "section2": {
+      "title": "DaaS 3D",
+      "description": "drag&drop 방식으로 손쉽게 이미지를 플랫폼으로 불러와 3D 공간정보를 만들 수 있습니다. 모든 과정은 네트워크 기반\n 분산처리로 자동화되어 이뤄지고 다양한 데이터 분석과 리포팅을 제공합니다."
+    },
+    "section3": {
+      "title": "DaaS Pano(360°)",
+      "description": "자동 모자이크와 색 보정 과정을 포함한 360° Panoramic platform의 실시간 자동화 과정으로 \nHTML-5기반의 결과물을 기기나 OS에 \n상관없이 고객에게 자동으로 전송합니다."
+    }
+  },
+  "section2": {
+    "title": "DTM",
+    "section1": {
+      "title": "Drone Traffic Mapper/ Drone to Mapper",
+      "description": "DTM은 드론의 다양한 센서를 통해 항공과 수면, 지면 측정에 대한 새로운 솔루션을 제공합니다."
+    },
+    "section2": {
+      "title": "DTM ML",
+      "description": "드론 영상 분석에 머신러닝(ML)이 결합되어 다양한 형태의 결과물이 만들어집니다. 기존 장비의 한계를 뛰어넘어, 드론으로 양방향 차선과 전체 차선 정보를 효과적으로 얻을 수 있습니다."
+    },
+    "section3": {
+      "title": "DTM AI",
+      "description": "드론과 인공지능, 빅데이터, 블록체인의 결합으로 DTM은 다양한 시설물에 사용 가능한 상태 기반 관리 최적화 시스템뿐만 아니라 기존 시스템과의 연동 기능까지 제공합니다."
+    }
+  },
+  "section3": {
+    "title": "CfSM",
+    "subtitle": "Car-free Street Map",
+    "description": "CfSM은 딥러닝 알고리즘을 통해 도로 이미지 위 차량 이미지를 자동으로 제거하고\n결합된 이미지들에서 차 없는 깨끗한 도로 지도를 만듭니다.\n자율주행 자동차용 시뮬레이션 데이터나 도로정밀 안전지도(HDS Map)에도 쓰일 수 있습니다."
+  },
+  "section4": {
+    "title": "AfGG",
+    "subtitle": "(Auto-labeling 5G\nGeo-spatial Information HDS Map)",
+    "description": "AfGG 솔루션은 도로 표시 정보가 포함된 HDS(고화질 안전) 지도를 생성합니다. AfGG 솔루션은 DTM ML을 활용하여 도로 표시(노란색 이중선, 횡단보도, 정지선 등)에 자동으로 라벨을 지정하거나 위험 요소(포트홀, 균열 등)를 감지하여 도로 정보를 수집합니다.\n\n 이 기술을 통해 4S 매퍼는 자동차 안전 개념에 초점을 맞춘 다양한 도로 표시 정보/위험 요소를 지도로 구성하는 기능을 가지고 있습니다."
+  }
+}

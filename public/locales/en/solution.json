@@ -1,0 +1,90 @@
+{
+  "title": "solution",
+  "description": "",
+  "section1": {
+    "title": "Services",
+    "description": "Removes car images on the road using the deep learning technique and drone-taken images.",
+    "section1": {
+      "title": "CAR-free STREET MAPPING",
+      "description": "Removes car images on the road using the deep learning technique \nand drone-taken images. "
+    },
+    "section2": {
+      "title": "3D MODELING",
+      "description": "Creates 2.5D to 3D models from the drone-taken images using the \nmulti-directional cameras. "
+    },
+    "section3": {
+      "title": "HD SAFETY MAP",
+      "description": "Creates simulation data for autonomous vehicles by gathering road information such as crosswalk, center line, and stop lines from real drone-taken images. "
+    },
+    "section4": {
+      "title": "AUTOMATIC DATA PROCESSING",
+      "description": "Distributes data processing step using the Node to automate the processing. "
+    }
+  },
+  "section2": {
+    "title": "Car-free Street Map",
+    "description": "Deep Learning and Drone-based Automated Image \nRemoval Solution for Vehicles on the Road",
+    "description2": "An innovative service that will replace the traditional road monitoring system."
+  },
+  "section3":{
+    "section1": {
+      "title": "Capture",
+      "description": "Capture enough data to create \na dataset using the drone. \nThe data type must be in image format."
+    },
+    "section2": {
+      "title": "Combine",
+      "description": "Combine the tile dataset into\none whole road  image \nfor the preparation of data processing."
+    },
+    "section3": {
+      "title": "process",
+      "description": "Process the dataset through CfSM solution to get rid of car/shadow images from the road. \nThe successful result would have a clear road without any distortion."
+    },
+    "section4": {
+      "title": "monitor",
+      "description": "Monitor the status of the road using \nCfSM processed image. \nDetect the condition of the road by running an analysis on the server."
+    }
+  },
+  "section4": {
+    "title":"",
+    "description":"Move the Slide"
+  },
+  "daas":{
+    "section1":{
+      "title":"DaaS Pano (360°)",
+      "description":"Seoul Worldcup Stadium, Park\nand Yongwol City"
+    },
+    "section2":{
+      "description":"STADIUM",
+      "description2":"PARK",
+      "description3":"YEONGWOL"
+    },
+    "section3":{
+      "title":"",
+      "description":"This is a panorama created using DasS Pano in collaboration with the Seoul Metropolitan Government. \n Experience the Seoul World Cup Stadium, World Cup Park vividly\nand Yeongwol City"
+    }
+  },
+  "sample":{
+    "section1":{
+      "title":"",
+      "description":"This is a 3D sample shown using DroMii's own technology. \n We show various renderings depending on the options. \n Depending on the sample, some options may be disabled."
+    },
+    "section2":{
+      "description":"Images taken by drones are reconstructed \n and displayed in 3D.",
+      "description2":"Removes vehicle visibility to reveal the full picture \n of the road."
+    }
+  },
+  "cfsm":{
+    "section1":{
+      "title":"",
+      "description": "Based on CfSM, it removes cars using deep learning algorithms,\nand those integrated images are combined to make car-free street maps.\nAlso, it could be used for self-driving car simulation data\nwith the real road information and HD Safety Map."
+    }
+  },
+  "panorama":{
+    "section1":{
+      "title":"",
+      "description": "Makes HTML5-based results from several images going through 360° Panoramic platform and a real-time auto-process (with mosaic and color correction process, etc.), which automatically sends the result to users in any OS & device."
+    }
+  }
+  
+}
+

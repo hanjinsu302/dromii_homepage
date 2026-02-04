@@ -1,0 +1,174 @@
+{
+  "name": "하드웨어",
+  "operational": {
+    "name": "운영 제품",
+    "product": {
+      "Phantom4Pro": "Sentera NIR Sensor 운용",
+      "Mavic2Pro": "Sentera NIR Sensor 운용",
+      "M210RTK": "RTK Base Station 운용",
+      "Phantom4Pro2": "2대 운용",
+      "Phantom3Pro": "1대 운용 (교육용)",
+      "Solo": "1대 보유 (테스트용)"
+    }
+  },
+  "sensors": {
+    "name": "sensor",
+    "product": {
+      
+      "Mavic3M": {
+        "name": "Mavic3M",
+        "description": "PSDK 102S V3-5-way inclined camera",
+        "spec": "Dimensions & Weight: 193 x 172 x 180 mm; 1041g \n Super Durable S-GS Global Shutter \n Effective Pixels: Over 25 million pixels single lens; totalling exceeding 125 Million Pixels \n Sensor Specifications: Size - 23.1 x 15.4 mm, Pixel Size - 3.76um \n Lens Focal Length: Oblique - 35mm, Orthophoto - 25mm \n Storage Capacity: 1280 GB",
+        "link": "https://www.shareuavtec.com/V3S"
+      }
+      ,
+      "Matrice400": {
+        "name": "Matrice400",
+        "description": "SHARE 203S PRO - 225 MP Five-lenses Oblique Camera",
+        "spec": "Dimensions & Weight: 182 x 203 x 196 mm; 1280g \n Effective Pixels: 45 million pixels single lens, totalling 225 million pixels \n Sensor Specifications: Size - 36 x 24 mm; Pixel Size - 4.4μm \n Lens Focal Length: Oblique - 56mm, Orthophoto - 40mm \n Storage Capacity: Dual 1280GB storage modules",
+        "link": "https://www.shareuavtec.com/203"
+      }
+      ,
+      "Matrice4E": {
+        "name": "Matrice4E",
+        "description": "305 MP Five-lenses Oblique Camera",
+        "spec": "Dimensions & Weight: 182 x 203 x 196 mm; 1280g \n Effective Pixels: 61 million pixels single lens, totalling 305 million pixels \n Sensor Specifications: Size - 36 x 24 mm; Pixel Size - 3.76μm \n Lens Focal Length: Oblique - 56mm, Orthophoto - 40mm \n Storage Capacity: Dual 1280GB storage modules ",
+        "link": "https://www.shareuavtec.com/304"
+      }
+      ,
+      "Mavic3": {
+        "name": "Mavic3",
+        "description": "Extended Vision, Immersive Reality",
+        "spec":"Dimensions & Weight: 133 x 184 x 162 mm; 880g \n Effective Pixels: 102 million pixels \n  Sensor Specifications: IMX461, Size - 43.8 x 32.9 mm, Pixel Size - 3.76um \n Lens Focal Length: 50mm/70mm\n Storage Capacity: Dual 512GB storage modules",
+        "link": "https://www.shareuavtec.com/100m"
+      }
+      ,
+      "Fixar700": {
+        "name": "Fixar700",
+        "description": "SHARE 6100X - Full Frame Single LensAerial Camera",
+        "spec": "Dimensions & Weight: 128 x 181 x 153 mm; 640g \n Effective Pixels: 61million pixels \n  Sensor Specifications: Size - 36 x 24 mm; Pixel Size - 3.76μm \n Lens Focal Length: Standard 40mm, Customizable to 56mm \n Storage Capacity: 512 GB",
+        "link": "https://www.shareuavtec.com/6100x"
+      }
+      ,
+      "HEQ": {
+        "name": "HEQ",
+        "description": "SHARE 2600 SDK -Three-Axis Gimbal Aerial Survey Camera",
+        "spec": "Sensor Size: 23.1 X 15.4 mm \n Image Size 6144 X 4069 px \n Without Gimbal: 230g \n Working Temperature: -10°C ~ +40°C \n IP Level: IP53",
+        "link": "https://www.shareuavtec.com/2600"
+      }
+    }
+  },
+  "sales": {
+    "name": "Sales Products",
+    "product": {
+      "Module_102MP": {
+        "name": "Module_102MP",
+        "description": "PSDK 102S V3-5-way inclined camera",
+        "spec": "Dimensions & Weight: 193 x 172 x 180 mm; 1041g \n Super Durable S-GS Global Shutter \n Effective Pixels: Over 25 million pixels single lens; totalling exceeding 125 Million Pixels \n Sensor Specifications: Size - 23.1 x 15.4 mm, Pixel Size - 3.76um \n Lens Focal Length: Oblique - 35mm, Orthophoto - 25mm \n Storage Capacity: 1280 GB"
+      },
+      "Module_61MP": {
+        "name": "Module_61MP",
+        "description": "",
+        "spec": "Sensor size: 36 × 24 mm (8184 × 5460)\nWeight of instrument: 1.55 kg\nData storage: 512 G*2\nPixel size: 4.4 μm\nStorage temperature:-20°C to +60°C\n"
+      },
+      "Module_45MP": {
+        "name": "Module_45MP",
+        "description": "BLV BL100 Pro",
+        "spec": "Sensor Size: APS-C (23.5*15.6mm) \n Pixel Size: 3.91 um \n Image Resolution: 3:2 （6000 × 4000） \n Working Temperature: -10 ℃ ~ 40 ℃ \n Storage: 1280 GB"
+      },
+      "Module_26MP": {
+        "name": "Module_26MP",
+        "description": "OBLIQUE CAMERA SURVEYOR 5 STANDARD with smart camera system",
+        "spec": "Sensor : APS-C CMOS(23.5X15.6mm)\nLens : 25mm/35mm\nPixels Number : 24MP\nTotal Pixels : 120MP\nOblique Lens Angle : 45 degree\nTotal Memory : 320GB\nWorking Temperature : -10°C ~ +40°C"
+      },
+      "SHARE_505S_PRO": {
+        "name": "SHARE_505S_PRO",
+        "description": "Cost-Effective Drone Solution for Commercial Operations",
+        "spec": "- FLIGHT DISTANCE : 60 km (37.2 mi)\n- Setup time of less than 2 min\n- Aircraft type : Hybrid (VTOL & fixed-wing)\n- Wingspan : 1640 mm (5.4 ft)\n- Number of rotors : 4\n- Maximum take-off weight (MTOW) : 7 kg (15.4 lbs)\n- Max payload weight : 2 kg (4.4 lbs)\n- Maximum telemetry range : 40 km (24.9 mi)"
+      },
+     "SHARE_305S_PRO": {
+        "name": "SHARE_305S_PRO",
+        "description": "TACTICAL LIGHTING RESPONDER KIT",
+        "spec": "Powerful 10,000 Lumens Brightness: See the big picture in the dark.\n Patented Camera-Tracking Drone Light: For enhanced situational awareness at night.\n Continuous Lighting with Rechargeable External Batteries: The light’s battery life matches the drone’s flight time.\n Perfectly designed for DJI Mavic 3 and next products: \n Easy to mount and DJI remote controlled.\n Built-in Anti-Collision Lights: FAA-compliant for safer night flights.\n Robust and Reliable: Dust and water repellent."
+      },
+      "SHARE_505S_PRO": {
+        "name": "SHARE_505S_PRO",
+        "description": "Cost-Effective Drone Solution for Commercial Operations",
+        "spec": "- FLIGHT DISTANCE : 60 km (37.2 mi)\n- Setup time of less than 2 min\n- Aircraft type : Hybrid (VTOL & fixed-wing)\n- Wingspan : 1640 mm (5.4 ft)\n- Number of rotors : 4\n- Maximum take-off weight (MTOW) : 7 kg (15.4 lbs)\n- Max payload weight : 2 kg (4.4 lbs)\n- Maximum telemetry range : 40 km (24.9 mi)"
+      },
+      "SHARE_205S_PRO": {
+        "name": "SHARE_205S_PRO",
+        "description": "Cost-Effective Drone Solution for Commercial Operations",
+        "spec": "- FLIGHT DISTANCE : 60 km (37.2 mi)\n- Setup time of less than 2 min\n- Aircraft type : Hybrid (VTOL & fixed-wing)\n- Wingspan : 1640 mm (5.4 ft)\n- Number of rotors : 4\n- Maximum take-off weight (MTOW) : 7 kg (15.4 lbs)\n- Max payload weight : 2 kg (4.4 lbs)\n- Maximum telemetry range : 40 km (24.9 mi)"
+      },
+      "SHARE_105S_PRO": {
+        "name": "SHARE_105S_PRO",
+        "description": "Cost-Effective Drone Solution for Commercial Operations",
+        "spec": "- FLIGHT DISTANCE : 60 km (37.2 mi)\n- Setup time of less than 2 min\n- Aircraft type : Hybrid (VTOL & fixed-wing)\n- Wingspan : 1640 mm (5.4 ft)\n- Number of rotors : 4\n- Maximum take-off weight (MTOW) : 7 kg (15.4 lbs)\n- Max payload weight : 2 kg (4.4 lbs)\n- Maximum telemetry range : 40 km (24.9 mi)"
+      },
+      "SHARE_304S_PRO": {
+        "name": "SHARE_304S_PRO",
+        "description": "Cost-Effective Drone Solution for Commercial Operations",
+        "spec": "- FLIGHT DISTANCE : 60 km (37.2 mi)\n- Setup time of less than 2 min\n- Aircraft type : Hybrid (VTOL & fixed-wing)\n- Wingspan : 1640 mm (5.4 ft)\n- Number of rotors : 4\n- Maximum take-off weight (MTOW) : 7 kg (15.4 lbs)\n- Max payload weight : 2 kg (4.4 lbs)\n- Maximum telemetry range : 40 km (24.9 mi)"
+      },
+      "SHARE_230S_PRO": {
+        "name": "SHARE_230S_PRO",
+        "description": "Cost-Effective Drone Solution for Commercial Operations",
+        "spec": "- FLIGHT DISTANCE : 60 km (37.2 mi)\n- Setup time of less than 2 min\n- Aircraft type : Hybrid (VTOL & fixed-wing)\n- Wingspan : 1640 mm (5.4 ft)\n- Number of rotors : 4\n- Maximum take-off weight (MTOW) : 7 kg (15.4 lbs)\n- Max payload weight : 2 kg (4.4 lbs)\n- Maximum telemetry range : 40 km (24.9 mi)"
+      },
+      "SHARE_T2": {
+        "name": "SHARE_T2",
+        "description": "Cost-Effective Drone Solution for Commercial Operations",
+        "spec": "- FLIGHT DISTANCE : 60 km (37.2 mi)\n- Setup time of less than 2 min\n- Aircraft type : Hybrid (VTOL & fixed-wing)\n- Wingspan : 1640 mm (5.4 ft)\n- Number of rotors : 4\n- Maximum take-off weight (MTOW) : 7 kg (15.4 lbs)\n- Max payload weight : 2 kg (4.4 lbs)\n- Maximum telemetry range : 40 km (24.9 mi)"
+      },
+      "PSDK_102S_V3": {
+        "name": "PSDK_102S_V3",
+        "description": "Cost-Effective Drone Solution for Commercial Operations",
+        "spec": "- FLIGHT DISTANCE : 60 km (37.2 mi)\n- Setup time of less than 2 min\n- Aircraft type : Hybrid (VTOL & fixed-wing)\n- Wingspan : 1640 mm (5.4 ft)\n- Number of rotors : 4\n- Maximum take-off weight (MTOW) : 7 kg (15.4 lbs)\n- Max payload weight : 2 kg (4.4 lbs)\n- Maximum telemetry range : 40 km (24.9 mi)"
+      },
+      "SHARE_S20": {
+        "name": "SHARE_S20",
+        "description": "Cost-Effective Drone Solution for Commercial Operations",
+        "spec": "- FLIGHT DISTANCE : 60 km (37.2 mi)\n- Setup time of less than 2 min\n- Aircraft type : Hybrid (VTOL & fixed-wing)\n- Wingspan : 1640 mm (5.4 ft)\n- Number of rotors : 4\n- Maximum take-off weight (MTOW) : 7 kg (15.4 lbs)\n- Max payload weight : 2 kg (4.4 lbs)\n- Maximum telemetry range : 40 km (24.9 mi)"
+      },
+       "CHCNAV_i93": {
+        "name": "CHCNAV_i93",
+        "description": "Cost-Effective Drone Solution for Commercial Operations",
+        "spec": "- FLIGHT DISTANCE : 60 km (37.2 mi)\n- Setup time of less than 2 min\n- Aircraft type : Hybrid (VTOL & fixed-wing)\n- Wingspan : 1640 mm (5.4 ft)\n- Number of rotors : 4\n- Maximum take-off weight (MTOW) : 7 kg (15.4 lbs)\n- Max payload weight : 2 kg (4.4 lbs)\n- Maximum telemetry range : 40 km (24.9 mi)"
+      },
+       "BL_CH4": {
+        "name": "BL_CH4",
+        "description": "Cost-Effective Drone Solution for Commercial Operations",
+        "spec": "- FLIGHT DISTANCE : 60 km (37.2 mi)\n- Setup time of less than 2 min\n- Aircraft type : Hybrid (VTOL & fixed-wing)\n- Wingspan : 1640 mm (5.4 ft)\n- Number of rotors : 4\n- Maximum take-off weight (MTOW) : 7 kg (15.4 lbs)\n- Max payload weight : 2 kg (4.4 lbs)\n- Maximum telemetry range : 40 km (24.9 mi)"
+      },
+       "BL_CH4_MINI": {
+        "name": "BL_CH4_MINI",
+        "description": "Cost-Effective Drone Solution for Commercial Operations",
+        "spec": "- FLIGHT DISTANCE : 60 km (37.2 mi)\n- Setup time of less than 2 min\n- Aircraft type : Hybrid (VTOL & fixed-wing)\n- Wingspan : 1640 mm (5.4 ft)\n- Number of rotors : 4\n- Maximum take-off weight (MTOW) : 7 kg (15.4 lbs)\n- Max payload weight : 2 kg (4.4 lbs)\n- Maximum telemetry range : 40 km (24.9 mi)"
+      },
+      "XYZ_X1_GNSS": {
+        "name": "XYZ_X1_GNSS",
+        "description": ""
+      }
+      
+    }
+  },
+  "operationals": {
+    "name" : "operationals",
+    "product": {
+      "XYZ_SFAIRA_ONE": {
+        "name": "XYZ_SFAIRA_ONE",
+        "description": ""
+      },
+      "XYZ_X1_GNSS": {
+        "name": "XYZ_X1_GNSS",
+        "description": ""
+      },
+      "CHCNAV_i93": {
+        "name": "CHCNAV_i93",
+        "description": ""
+      }
+    }
+
+  }
+}

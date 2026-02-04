@@ -1,0 +1,105 @@
+{
+  "section" : {
+    "des":"Combining satellite and drone data with artificial intelligence (AI)",
+    "des1":"Integrated Pollution Source Management and Monitoring System"
+  },
+  "section1": {
+    "des": "Various pollutants are concentrated in upstream areas, and water quality deterioration\nsuch as green algae, is repeatedly occurring.\nHowever, it is difficult to respond in real time and select efficient management areas\nusing existing manual methods..",
+    "des1": "Household waste",
+    "des2": "Livestock compost",
+    "des3": "Illegal farmland",
+    "des4": "Problems with the\nexisting management method",
+    "des5": "Relying on site or satellite\nIt can't process,integrate big data quickly",
+    "des6": "Green algae phenomenon",
+    "des7": "Pollution concentrated in upstream areas",
+    "des8": "Repeated water pollution"
+  },
+  "section2": {
+    "des": "This situation is not limited to the entire region,",
+    "des1": "We are solving environmental pollution problems through intensive\nmanagement of polluted areas."
+  },
+ "section3": {
+    "type1":{
+         "title": "Land cover map",
+        "des1": "Automatically classify land use\nstatus and predict potential contamination.",
+        "des2": "K-AQUAS analyzes satellite images using artificial intelligence (AI) and automatically classifies the land in the target area into 13 types, including rice paddies, fields, mountains, and residential areas.",
+        "des3": "These classification results are used to quantify the amount of pollution generated, and are calculated based on the Ministry of Environment's Total Pollution Load Management Technical Guidelines."
+    },
+     "type2":{
+         "title": "Contamination source object detection",
+        "des1": "Automatically detects sources of\ncontamination in drone-captured images.",
+        "des2": "K-AQUAS automatically recognizes and detects the location of major pollutants, such as compost and livestock waste,\nbased on high-quality images and videos\ncollected by drones. Detected pollutants are displayed along\nwith location coordinates and altitude information,\nalong with a bounding box.",
+        "des3": "The detected data is visualized on the administrator screen to support on-site inspection and response\ndecision making."
+    },
+     "type3":{
+         "title": "Priority management area management",
+        "des1": "We derive priority management\nareas based on data.",
+        "des2": "Managing all areas by the same standards is inefficient.\nK-AQUAS analyzes various environmental data to automatically\nselect areas in urgent need of pollution control.",
+        "des3": "The algorithm uses TOPSIS to perform\na comprehensive evaluation by assigning weights\nto each major factor, such as precipitation, altitude, and distance from rivers."
+    },
+     "type4":{
+         "title": "Provides various web services",
+        "des1": "We provide you with data at\na glance and easy to check.",
+        "des2": "K-AQUAS visualizes complex data\nin various forms, including maps, graphs, and tables, so that everyone from field\nworkers to managers can conveniently utilize it",
+        "des3": "K-AQUAS provides satellite and drone data and analysis results\nas a dashboard and map-based service.\nYou can check land cover maps, pollution source distribution,\nand priority management areas at a glance, and support faster\nand more accurate decision-making through data comparison by period and customized management tools"
+    }
+   
+  },
+  "section4":{
+    "title1":"From data collection to analysis, visualization, and management",
+    "title2":"— K-AQUAS One-Stop Water Quality Management Solution",
+    "type1":{
+        "title":"Data collection",
+        "des":"Collected from various sources,\nincluding satellites (Sentinel Hub), drones,\nand public data."
+    },
+    "type2":{
+        "title":"Preprocessing",
+        "des":"Land cover is classified into 13 types,\nand pollution sources are automatically\ndetected in drone footage."
+    },
+    "type3":{
+        "title":"AI analytics",
+        "des":"Improve data quality with\ncloud cover filtering, water index analysis, and tiling."
+    },
+    "type4":{
+        "title":"Selection of priority\nmanagement area",
+        "des":"TOPSIS analysis identifies\nareas in urgent need of management."
+    },
+    "type5":{
+        "title":"Visualization and\nprocessing",
+        "des":"Convert to web service\nformats such as GeoJSON, Tile, etc."
+    },
+    "type6":{
+        "title":"Service provided",
+        "des":"Real-time monitoring is possible\nthrough dashboards, map-based analysis, comparison,\nand filtering functions."
+    }
+  },
+  "section6":{
+    "des":"K-AQUAS's main partners are Korea Water Resources\nCorporation and Various fields related to\nwater quality management and environment\nan institution or company.",
+    "des2":"These regions have complex problems, including pollution\nfrom livestock, industry, and living in the\nupstream area, green algae and deteriorating\nwater quality in the midstream area, and\ndependence on large-scale water sources\nin the downstream area.",
+    "des3":"Nakdong River Basin 10-Year Comprehensive Plan Section",
+    "des4":"7 key green algae management areas",
+    "des5":"Water infrastructure management",
+    "des6":"Water source protection zones and areas\nnear water intake sources"
+  },
+  "section7":{
+    "type1":{
+        "title":"Local Applications",
+        "date":"2025",
+        "des1":"Progress in supplementary\nwork in the Yeongju Dam area",
+        "des2":"AI model refinement and additional data training,\nproject completion and testbed verification"
+    },
+    "type2":{
+        "title":"Nationwide Expansion",
+        "date":"2027",
+        "des1":"Solving major pollution sources\nin domestic watersheds",
+        "des2":"10-Year Comprehensive Plan for the\nNakdong River BasinSystematically manage seven key\nmanagement areas with severe green algae"
+    },
+    "type3":{
+        "title":"Global Impact",
+        "date":"2030",
+        "des1":"Progress in supplementary work\nin the Yeongju Dam area",
+        "des2":"Direct participation in local areas such as\nthe Middle East and Southeast Asia to investigate\nwater quality issues.\nParticipation in overseas Expos and business meetings\nand MOU signing.\nProviding optimal customized services tailored\nto each overseas site."
+    }
+  }
+
+}

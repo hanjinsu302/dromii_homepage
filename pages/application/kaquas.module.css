@@ -1,0 +1,491 @@
+.Usecasesimg{
+    width:100%;
+}
+.Section{
+    width:100%;
+    position: relative;
+    margin-bottom: 5vw;
+}
+.SectionImg{
+    width: 100%;
+}
+.SectionInfoText{
+    position: absolute;
+    top:40vw;
+    right: 10vw;
+    color: white;
+    font-size: 1.3vw;
+}
+.SectionInfoText2{
+ position: absolute;
+    top:43vw;
+    right: 10vw;
+    color: white;
+    font-size: 1.8vw;
+}
+.Section1{
+    width:100%;
+    height:max-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 10vw;
+
+}
+.Section1Img{
+    width:50%;
+}
+.Section1TitleBox{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    position: relative;
+    height: 200px;
+    height: 10vw;
+
+}
+.Section1TitleImg{
+    width:70%;
+    margin-left: 300px;
+    margin-left: 14vw;
+
+
+}
+.kaquasprblemTitleText{
+    position: absolute;
+    width: 1500px;
+    width: 63vw;
+    line-height: 1.5;
+    font-size: 32px;
+    font-size: 1.4vw;
+    margin-left: 500px;
+    margin-left: 24vw;
+    
+}
+.Section1InfoBox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 5vw;
+
+}
+.Section1InfoText1,
+.Section1InfoText2,
+.Section1InfoText3,
+.Section1InfoText4,
+.Section1InfoText5,
+.Section1InfoText6,
+.Section1InfoText7,
+.Section1InfoText8{
+    position: absolute;
+    font-size: 16px;
+    font-size: 0.8vw;
+    font-weight: 700;
+}
+.Section1InfoText1{
+    top:540px;
+    top: 10.5vw;
+    left: 715px;
+    left: 29.7vw;
+}
+.Section1InfoText2{
+    top:540px;
+    top: 10.5vw;
+    left: 1045px;
+    left: 44.7vw;
+}
+
+.Section1InfoText3{
+    top:540px;
+    top: 10.5vw;
+    left: 1368px;
+    left: 59.6vw;
+}
+.Section1InfoText4{
+    top:540px;
+    top: 18.1vw;
+    left: 1368px;
+    left:53.4vw;
+    font-size: 1.1vw;
+    color: #5098EC;
+    line-height: 1.2;
+}
+.Section1InfoText5{
+    top:540px;
+    top: 16.9vw;
+    left: 1368px;
+    left:35.4vw;
+    font-size: 0.8vw;
+    text-align: center;
+    line-height: 2.5;
+    
+}
+.Section1InfoText6{
+    top:540px;
+    top: 38vw;
+    left: 1368px;
+    left:29.8vw;
+    font-size: 0.8vw;
+    text-align: center;
+    line-height: 1.5;
+    
+}
+.Section1InfoText7{
+    top:540px;
+    top: 38vw;
+    left: 1368px;
+    left:50vw;
+    font-size: 0.8vw;
+    text-align: center;
+    line-height: 1.5;
+    
+}
+.Section1InfoText8{
+    top:540px;
+    top: 45vw;
+    left: 1368px;
+    left:42.5vw;
+    font-size: 1.6vw;
+    text-align: center;
+    line-height: 1.5;
+    color: #233067;
+    
+}
+
+
+.Section2{
+     width:100%;
+     position: relative;
+     margin-bottom: 10vw;
+}
+
+.bannerImg{
+    width:100%;
+}
+.Section2Text1{
+    position: absolute;
+    color: white;
+    font-size: 1.6vw;
+    top:25vw;
+    left:38vw;
+    
+
+}
+.Section2Text2{
+    position: absolute;
+    color: white;
+     font-size: 1.6vw;
+     top:20px;
+     top:28vw;
+    left:26.5vw;
+    line-height: 1.2;
+}
+.Section3{
+    width:100%;
+    padding: 0px 9vw;
+    margin-bottom: 10vw;
+}
+.Section3Box{
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5vw;
+}
+.Section3ImgBox{
+    width:700px;
+    width:33vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 24vw;
+ 
+
+}
+.Section3TextBox{
+     width:50%;
+    
+     height: 24vw;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: space-evenly;
+    
+}
+.Section3TextTitle{
+  color: #5098EC;
+  font-size: 1.6vw;
+}
+.Section3TextDes1{
+    font-size: 2vw;
+    line-height: 1.2;
+
+}
+.Section3TextDes2{
+font-size: 1vw;
+line-height: 1.2;
+}
+.Section3TextDes3{
+font-size: 1vw;
+line-height: 1.2;
+}
+
+.Section4{
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10vw;
+
+}
+
+.kaquasbanner3{
+    width: 100%;
+}
+.Section4TitleBox{
+    position: absolute;
+    top: 7.5vw;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1vw;
+}
+
+.Section4Title1{
+    /* position: absolute;
+    top: 7.5vw;
+    left: 40vw; */
+    font-size: 1vw;
+}
+.Section4Title2{
+    /* position: absolute;
+    top: 9.2vw; */
+    font-size: 1.6vw;
+    /* left: 34.5vw; */
+}
+.Section4SubTitle1,
+.Section4SubTitle2,
+.Section4SubTitle3,
+.Section4SubTitle4,
+.Section4SubTitle5,
+.Section4SubTitle6{
+    position: absolute;
+    font-size: 1.2vw;
+    font-weight: 600;
+    line-height: 1.2;
+}
+.Section4SubTitle1{
+    top:29.3vw;
+    left: 46.5vw;
+}
+.Section4SubTitle2{
+    top:39.6vw;
+    left:72vw;
+}
+.Section4SubTitle3{
+    top:59.6vw;
+    left:71.7vw;
+}
+.Section4SubTitle4{
+    top:70vw;
+    left: 44.4vw;
+}
+.Section4SubTitle5{
+    top:59.6vw;
+    left:22.5vw;
+    text-align: center;
+}
+.Section4SubTitle6{
+    top:39.1vw;
+    left:23vw;
+}
+
+.Section4SubDes1,
+.Section4SubDes2,
+.Section4SubDes3,
+.Section4SubDes4,
+.Section4SubDes5,
+.Section4SubDes6{
+     position: absolute;
+    font-size: 0.8vw;
+    text-align: center;
+    font-weight: 500;
+    line-height: 1.5;
+}
+.Section4SubDes1{
+    top:31.4vw;
+    left: 41.5vw;
+}
+.Section4SubDes2{
+     top:41.75vw;
+    left:66.5vw;
+}
+.Section4SubDes3{
+    top:61.75vw;
+    left:66vw;
+}
+.Section4SubDes4{
+     top:73.2vw;
+    left: 42.5vw;
+}
+.Section4SubDes5{
+    top:62.75vw;
+    left:20.2vw;
+}
+.Section4SubDes6{
+    top:41.5vw;
+    left:18vw;
+}
+.Section6{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10vw;
+    position: relative;
+}
+
+.Section6des,
+.Section6des1,
+.Section6des2,
+.Section6des3,
+.Section6des4,
+.Section6des5,
+.Section6des6{
+    position: absolute;
+    font-size: 1vw;
+    line-height: 1.3;
+    color: #6B7684;
+
+}
+.Section6des{
+    top:39vw;
+    left: 66vw;
+}
+.Section6des2{
+    top:76vw;
+    left: 66vw;
+}
+.Section6des3{
+    display: flex;
+    align-items: center;
+   top:61vw;
+    left: 9.75vw;
+}
+.Section6des4{
+    top:62.6vw;
+    left: 9.75vw;
+     display: flex;
+    align-items: center;
+}.Section6des5{
+    top:64.3vw;
+    left: 9.75vw;
+     display: flex;
+    align-items: center;
+}.Section6des6{
+    top:66vw;
+    left: 9.75vw;
+     display: flex;
+  
+   display: flex;
+    align-items: center;
+}
+
+.Section6des3::before,
+.Section6des4::before,
+.Section6des5::before,
+.Section6des6::before {
+  content: "•";         /* 점 문자 */
+  color: #5771E8;       /* 파란색 (원하는 색으로 변경 가능) */
+  margin-right: 1vw;  /* 글자와 점 사이 간격 */
+  font-size: 2vw;     /* 점 크기 조절 */
+  vertical-align: middle;
+}
+
+
+.kaquasbanner4{
+    width: 80%;
+}
+
+
+.Section7{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-bottom: 10vw;
+}
+
+.kaquasbanner5{
+    width: 100%;
+}
+
+.Section7Box,
+.Section7Box1,
+.Section7Box2{
+    background-color: #ffffffaf;
+    position: absolute;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+    padding: 1vw;
+    gap: 0.5vw;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 0.2vw;
+}
+
+.Section7Box{
+    top: 0px;
+    left: 10vw;
+}
+.Section7Box1{
+    bottom: 0px;
+    left: 40vw;
+}
+.Section7Box2{
+    top: 0px;
+    left: 71vw;
+}
+.Section7BoxTitle{
+color:#233067;
+font-weight: 700;
+font-size: 1vw;
+
+}
+.Section7BoxDate{
+    color:#6b7684;
+font-weight: 800;
+font-size: 2vw;
+
+}
+.Section7BoxDes1{
+font-weight: 700;
+font-size: 1vw;
+line-height: 1.2;
+}
+.Section7BoxDes2{
+    line-height: 1.2;
+    font-weight: 700;
+    font-size:0.6vw;
+
+}
+.Section8{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Contact{
+    position: absolute;
+    padding: 0.5vw 0.7vw;
+    background-color: white;
+    font-size: 1.2vw;
+    font-weight: 700;
+    border-radius: 5px;
+    top:30vw
+}

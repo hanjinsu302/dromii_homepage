@@ -1,0 +1,27 @@
+{
+  "title": "About",
+  "copy": "WE TAKE\nPICTURES\nFROM ABOVE",
+  "description":"We photograph the road with a drone. Then, we use artificial intelligence to make the information we want.\nOur goal is to use this information to obtain accurate data on the road.",
+  "section1":{
+    "title":"WE TAKE PICTURES FROM ABOVE",
+    "description":"We photograph the road with a drone. \nThen, we use artificial intelligence to \nmake the information we want.",
+    "description2":"Our goal is to use this  information to obtain \naccurate data on the road."
+  },
+  "section2":{
+    "description":"Establishment of DroMii Co., Ltd.",
+    "description2":"Received the Seoul Innovation Challenge Excellence Award",
+    "description3":"Technological innovation, public test bed, industry participation",
+    "description4":"Establishment of Chinese corporation",
+    "description5":"Drone demonstration city construction project",
+    "description6":"Droneworks platform advancement project",
+    "description7":"Drone demonstration city construction project"
+  },
+  "section3":{
+    
+    "description":"intelligence",
+    "description2":"information",
+    "description3":"The logo that symbolizes a drone is \nThe identity of a company that works with drones \nIt has been shaped.",
+    "description4":"Dromi receives data from the drone. \nusing artificial intelligence \nProduces road transport information."
+    
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "menu1": {
+    "name": "云盘平台",
+    "depth2": { "menu1": "云盘平台", "menu2": "Example", "menu3": "Drone map" }
+  },
+  "menu2": {
+    "name": "拍摄选辑",
+    "depth2": {
+      "menu1": "解决方案",
+      "menu2": "DaaS Pano",
+      "menu3": "3D Samples",
+      "menu4": "Processing \n Results",
+      "menu5": "Example",
+      "menu6": "Drone Map"
+    }
+  },
+  "menu3": "软件产品",
+  "menu4": {
+    "name": "硬件产品",
+    "depth2": {
+      "menu1": "销售产品",
+      "menu2": "销售产品",
+      "menu3": "载荷"
+    }
+  },
+  "menu5": "关于我们",
+  "menu6": "联系我们",
+  "footer1":"Privacy Statement",
+  "footer2":"Internal information management regulations",
+  "footer3":"Video information processing device operation management policy",
+  "v1":"For corporate API users only",
+  "v2":"For general users only"
+}

@@ -1,0 +1,366 @@
+.Usecasesimg{
+    width:100%;
+}
+.Section{
+    width:100%;
+    position: relative;
+    margin-bottom: 5vw;
+}
+.SectionImg{
+    width: 100%;
+}
+.Section1Img{
+    width: 100%;
+}
+.SectionInfoText{
+    position: absolute;
+    top:40vw;
+    right: 10vw;
+    color: white;
+    font-size: 1.8vw;
+    font-weight: 800;
+    text-align: right;
+}
+.SectionInfoText2{
+ position: absolute;
+    top:43vw;
+    right: 10vw;
+    color: white;
+    font-size: 1.8vw;
+}
+.Section1{
+    width:100%;
+    height:max-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 5vw;
+
+}
+.Section1Img{
+    width:50%;
+}
+.Section1TitleBox{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    position: relative;
+    height: 200px;
+    height: 10vw;
+
+}
+.Section1TitleImg{
+    width:70%;
+    margin-left: 300px;
+    margin-left: 14vw;
+
+
+}
+.kaquasprblemTitleText{
+    position: absolute;
+    width: 1500px;
+    width: 63vw;
+    line-height: 1.5;
+    font-size: 32px;
+    font-size: 1.4vw;
+    margin-left: 500px;
+    margin-left: 24vw;
+    font-weight: 800;
+    
+}
+.Section1InfoBox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 5vw;
+
+}
+.Section1InfoText1,
+.Section1InfoText2,
+.Section1InfoText3,
+.Section1InfoText4,
+.Section1InfoText5,
+.Section1InfoText6,
+.Section1InfoText7,
+.Section1InfoText8{
+    position: absolute;
+    font-size: 16px;
+    font-size: 0.8vw;
+    font-weight: 700;
+}
+.Section1InfoText1{
+    top:540px;
+    top: 10.5vw;
+    left: 715px;
+    left: 29.7vw;
+}
+.Section1InfoText2{
+    top:540px;
+    top: 10.5vw;
+    left: 1045px;
+    left: 44.7vw;
+}
+
+.Section1InfoText3{
+    top:540px;
+    top: 10.5vw;
+    left: 1368px;
+    left: 59.6vw;
+}
+.Section1InfoText4{
+    top:540px;
+    top: 18.1vw;
+    left: 1368px;
+    left:53.4vw;
+    font-size: 1.1vw;
+    color: #5098EC;
+    line-height: 1.2;
+}
+.Section1InfoText5{
+    top:540px;
+    top: 16.9vw;
+    left: 1368px;
+    left:35.4vw;
+    font-size: 0.8vw;
+    text-align: center;
+    line-height: 2.5;
+    
+}
+.Section1InfoText6{
+    top:540px;
+    top: 38vw;
+    left: 1368px;
+    left:29.8vw;
+    font-size: 0.8vw;
+    text-align: center;
+    line-height: 1.5;
+    
+}
+.Section1InfoText7{
+    top:540px;
+    top: 38vw;
+    left: 1368px;
+    left:50vw;
+    font-size: 0.8vw;
+    text-align: center;
+    line-height: 1.5;
+    
+}
+.Section1InfoText8{
+    top:540px;
+    top: 45vw;
+    left: 1368px;
+    left:42.5vw;
+    font-size: 1.6vw;
+    text-align: center;
+    line-height: 1.5;
+    color: #233067;
+    
+}
+
+
+.Section2{
+     width:100%;
+     position: relative;
+     margin-bottom: 5vw;
+}
+
+.bannerImg{
+    width:100%;
+}
+.Section2Text1{
+    position: absolute;
+    color: white;
+    font-size: 1.6vw;
+    top:25vw;
+    left:38vw;
+    
+
+}
+.Section2Text2{
+    position: absolute;
+    color: white;
+     font-size: 1.6vw;
+     top:20px;
+     top:28vw;
+    left:26.5vw;
+    line-height: 1.2;
+}
+.Section3{
+    width:100%;
+    padding: 0px 9vw;
+    margin-bottom: 5vw;
+    
+}
+.Section3Box{
+    width:100%;
+    margin-bottom: 5vw;
+}
+    
+.Section3ImgBox{
+    
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 24vw;
+    background-color: orange;
+    margin-bottom: 1vw;
+}
+.Section3Video{
+    width: 100%;
+}
+.Section3TextContainer{
+     width:100%;
+    display: flex;
+     height: 24vw;
+   
+    
+}
+.Section3TextBox{
+     width:50%;
+    
+     height: 24vw;
+    
+    
+}
+.Section3TextTitle{
+  color: #5098EC;
+  font-size: 1.6vw;
+}
+.Section3TextDes1{
+    font-size: 2vw;
+    line-height: 1.2;
+
+}
+.Section3TextDes2{
+font-size: 1vw;
+line-height: 1.2;
+}
+.Section3TextDes3{
+font-size: 1vw;
+line-height: 1.2;
+}
+
+.Section4{
+      width:100%;
+    padding: 0px 9vw;
+
+}
+.Section4_Infocontainer{
+    display: flex;
+    margin-bottom: 5vw;
+}
+.Section4_TextBox{
+    width: 50%;
+}
+.Section4_ImgBox{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.Section4Img{
+    width: 60%;
+}
+
+
+.Section5{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 9vw;
+}
+.Section5Box{
+    width: 100%;
+}
+.Section5InfoContainer{
+    width: 100%;
+    height: 13vw;
+    display: flex;
+    margin-top: 1vw;
+
+}
+.Section5InfoBox{
+    width: 48%;
+    height: 100%;
+  
+
+}
+.Section5Title{
+    width:100%;
+    display: flex;
+    align-items: center;
+}
+.Section5Info{
+width: 100%;
+height: 100%;
+display: flex;
+align-items: center;
+box-sizing: border-box;
+background-color: bisque;
+
+
+
+}
+.Section5InfoImg{
+    width: 28%;
+    height: 65%;
+    background-color: aqua;
+
+}
+
+.Section5InfoText{
+width: 70%;
+    height: 80%;
+    
+}
+
+.Section6,
+.Section7,
+.Section8{
+    background-color: black;
+}
+
+
+.Section6 {
+  box-sizing: border-box;
+  padding: 10vw;
+
+  /* 가로 스크롤만 */
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap; /* 자식 요소를 가로로 배치하려면 필요 */
+
+  /* 스크롤바 숨기기 */
+  scrollbar-width: none;   /* Firefox */
+  -ms-overflow-style: none; /* IE/Edge */
+}
+
+.Section6::-webkit-scrollbar {
+  display: none; /* Chrome, Safari */
+}
+
+.Section6Img{
+    width: 200%;
+}
+.Section8{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Contact{
+    position: absolute;
+    padding: 0.5vw 0.7vw;
+    background-color: white;
+    font-size: 1.2vw;
+    font-weight: 700;
+    border-radius: 5px;
+    top:25vw
+}

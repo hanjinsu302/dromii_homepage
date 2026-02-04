@@ -1,0 +1,21 @@
+{
+  "title": "CfSM",
+  "description": "혁신적인 차세대 도로 모니터링 솔루션. \n\n도로위 차량 이미지 제거 솔루션.",
+  "section1": {
+    "title": "촬영",
+    "description": "Capture enough data to create a dataset using the drone.\n\nThe data type must be in image format."
+  },
+  "section2": {
+    "title": "정합",
+    "description": "Combine the tile dataset into one whole road image for the preparation of data processing."
+  },
+  "section3": {
+    "title": "처리",
+    "description": "Process the dataset through CfSM solution to get rid of car/shadow images from the road. \n\nThe successful result would have a clear road without any distortion."
+  },
+  "section4": {
+    "title": "관리",
+    "description": "Monitor the status of the road using CfSM processed image. \n\nDetect the condition of the road by running an analysis on the server."
+  }
+}
+

@@ -1,0 +1,29 @@
+
+
+{
+  "menu1": "Platform",
+  "menu2": {
+    "name": "Portfolio",
+    "depth2": { "menu1": "Portfolio", "menu2": "Example", "menu3": "Drone map" }
+  },
+  "menu3": {
+    "name": "Software"
+  },
+  "menu4": {
+    "name": "Hardware",
+    "depth2": {
+      "menu1": "Sales Products",
+      "menu2": "Operational Products",
+      "menu3": "Sensors"
+    }
+  },
+  "menu5": {
+    "name": "About"
+  },
+  "menu6": {
+    "name": "Contact"
+  },
+  "menu7": {
+    "name" :"PRODUCTS"
+  }
+}

@@ -1,0 +1,145 @@
+.box1 { grid-area: 1 / 1 / 6 / 11; 
+    
+}
+.box2 { 
+    display: flex;
+    justify-content: end;
+    padding-right: 12vw;
+    grid-area: 6 / 1 / 13 / 11;
+    background-color: rgba(89, 88, 87, 1);
+ }
+.box3 { grid-area: 2 / 4 / 3 / 8; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.8vw;
+    text-align: center;
+    font-weight: 600;
+}
+.box4 { grid-area: 4 / 2 / 8 / 6; 
+   
+    padding-left: 6vw;
+}
+.box5 { grid-area: 4 / 6 / 6 / 10;
+    font-size: 1.5vw;
+    line-height: 2vw;
+    font-weight: 600;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box6 { grid-area: 7 / 7 / 14 / 10; 
+    background-color: black;
+    border-radius: 0.5vw;
+}
+
+.box7 { grid-area: 9 / 2 / 11 / 6; 
+    font-size: 1.5vw;
+    line-height: 2.5vw;
+    text-align: left;
+    font-weight: 600;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    color: white;
+    padding-right: 5vw;
+    text-align: center;
+}
+.historyBack{
+    grid-area: 1 / 1 / 13 / 11;
+}
+.CIBack{
+    grid-area: 1 / 1 / 13 / 11;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.hsp1,
+.hsp2,
+.hsp3,
+.hsp4,
+.hsp5,
+.hsp6,
+.hsp7,
+.hsp8{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-size: 1.5vw;
+    line-height: 2vw;
+}
+
+.hsp1{
+    margin-top: 10.5%;
+    margin-left: 58%;
+}
+.hsp2{
+    margin-top: 13.5%;
+    margin-left: 57.6%;
+}
+.hsp3{
+    margin-top: 22.2%;
+    right:54%;
+}
+.hsp4{
+    margin-top: 31.8%;
+    margin-left: 58%;
+}
+.hsp5{
+    margin-top: 34.8%;
+    margin-left: 58%;
+}
+.hsp6{
+    margin-top: 37.9%;
+    margin-left: 58%;
+}
+.hsp7{
+    margin-top: 47.5%;
+    right: 54%;
+}
+.hsp8{
+    margin-top: 55.2%;
+    margin-left: 58%;
+
+}
+.cip1,
+.cip2,
+.cip3,
+.cip4{
+    position: absolute;
+}
+.cip1{
+    font-size: 1.7vw;
+    font-weight: 600;
+    margin-left: 73%;
+    margin-top: 8%;
+}
+.cip2{
+    font-size: 1.7vw;
+    font-weight: 600;
+    margin-left: 73%;
+    margin-top: 10.6%;
+}
+.cip3{
+    text-align: start;
+    font-size: 1.3vw;
+    font-weight: 400;
+    right:61%;
+    margin-top: 33.1%;
+    font-weight: 600;
+    line-height: 2vw;
+    text-align: left;
+    width: max-content;
+}
+
+.cip4{
+    text-align: start;
+    font-size: 1.3vw;
+    font-weight: 400;
+    margin-left: 71.5%;
+    margin-top: 21%;
+    font-weight: 600;
+    line-height: 2vw;
+
+}

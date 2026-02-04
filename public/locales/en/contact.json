@@ -1,0 +1,13 @@
+{
+  "HQ": {
+    "name": "HQ",
+    "address": "DroMii Co., Ltd, #205, 2F, 39, Maeheon-ro 8-gil,\n Seocho-gu, Seoul, Korea, 06770"
+  },
+  "AILAB": {
+    "name": "AI LAB",
+    "address": "#220 2F, 42, Changeop-ro, Sujeong-gu, Seongnam-si,\n Gyeonggi-do, Korea 13449"
+  },
+  "errMsg1": "Please enter your name.",
+  "errMsg2": "Please enter your email.",
+  "errMsg3": "Please enter your message."
+}

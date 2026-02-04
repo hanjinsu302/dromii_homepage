@@ -1,0 +1,28 @@
+{
+  "title": "About",
+  "copy": "WE TAKE\nPICTURES\nFROM ABOVE",
+  "description": "드론의 장점을 최대한 살려 도로를 촬영한 뒤, AI와 딥러닝으로 필요한 정보를 만들어냅니다.\n기존 조사방식으로는 넘볼 수 없는 정확한 도로 정보를 얻는 것이 우리의 목표입니다.",
+  "section1":{
+    "title":"더 빠르게,더 넓게,\n더 정확하게",
+    "description":"드론으로 도로를 촬영합니다. \n그런 다음 인공지능을 이용해 \n우리가 원하는 정보를 만들어냅니다.",
+    "description2":"우리의 목표는 이 정보를 \n사용하여 도로에서 \n정확한 데이터를 얻는 것입니다."
+  },
+  "section2":{
+    "description":"(주)드로미 설립.",
+    "description2":"서울혁신챌린지 우수상 수상.",
+    "description3":"기술혁신, 공공테스트베드 \n제공 사업 참가",
+    "description4":"중국법인 설립",
+    "description5":"드론 실증도시 구축사업",
+    "description6":"드론웍스플랫폼 고도화 사업",
+    "description7":"드론 실증도시 구축사업"
+  },
+  "section3":{
+    
+    "description":"intelligence",
+    "description2":"information",
+    "description3":"드론을 형상화한 로고는 \n드론과 함께하는 회사의 정체성을 \n형상화하였습니다.",
+    "description4":"드론에서 데이터를 수신한 드로미는 \nartificial intellignece를 이용하여 \nroad transport information을 만들어냅니다."
+    
+  }
+}
+

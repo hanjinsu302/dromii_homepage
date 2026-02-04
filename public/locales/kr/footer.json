@@ -1,0 +1,37 @@
+{
+  "menu1": {
+    "name": "플랫폼",
+    "depth2": { "menu1": "플랫폼", "menu2": "Example", "menu3": "Drone map" }
+  },
+  "menu2": {
+    "name": "포트폴리오",
+    "depth2": { "menu1": "플랫폼", "menu2": "Example", "menu3": "Drone map" }
+  },
+  "menu3": {
+    "name": "소프트웨어",
+    "depth2": {
+      "menu1": "판매상품",
+      "menu2": "운영상품",
+      "menu3": "센서"
+    }
+  },
+  "menu4": {
+    "name": "하드웨어",
+    "depth2": {
+      "menu1": "판매상품",
+      "menu2": "운영상품",
+      "menu3": "센서"
+    }
+  },
+  "menu5": "회사 소개",
+  "menu6": "Contact"
+  ,
+  "menu7": {
+    "name": "하드웨어",
+    "depth2": {
+      "menu1": "판매상품",
+      "menu2": "운영상품",
+      "menu3": "센서"
+    }
+  }
+}

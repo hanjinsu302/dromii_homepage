@@ -1,0 +1,113 @@
+{
+    "section":{
+        "des":"AI and drone-based security\nmanagement solution"
+    },
+    "section1":{
+        "des": "Potholes, cracks, and aging infrastructure pose serious safety risks, yet traditional\ninspections rely on time-consuming manual work, limiting real-time detection and\nresponse.",
+        "des1": "Risks from\npotholes & cracks",
+        "des2": "Limited\nmanpower & time",
+        "des3": "Lack of\nreal-time data",
+        "des4": "High social costs"
+    },
+    "section2":{
+        "des": "ses drones and AI to detect road damage and hazards,\nenabling data-driven decisions for safer, sustainable roads."
+    },
+    "section3":{
+        "title":"CfSM (Car-free Street Mapping)",
+        "des": "AI automatically removes\nvehicles and shadows to\ngenerate clear road maps",
+        "des1": "D-ROAD reveals markings, sidewalks, and facilities hidden by vehicles\nand shadows, enabling precise analysis and data use",
+        "des2": "It provides high-quality datasets for HD maps, asset management,\nurban planning, and broader applications"
+    },
+    "section4":{
+        "sub":{
+            "title":"AI-powered hazard detection",
+            "des":"Using drone imagery and AI\nvision, D-ROAD automatically \nidentifies cracks, potholes, FOD,\nand other potential risks",
+            "des1":"D-ROAD collects data faster and more accurately than manual\ninspections, supporting accident prevention and maintenance\ndecisions",
+            "des2":" Its AI algorithms continuously learn, enhancing precision and\nadvancing road safety automation"
+        },
+        "sub1":{
+            "title":"Dashboard system",
+            "des":"Detected hazards and road\ncondition data are visualized in\nreal time",
+            "des1":"A map-based UI highlights locations and severity at a glance, with\nreports by time and section",
+            "des2":"Through the dashboard, administrators can set response priorities\nand carry out systematic, data-driven maintenance management"
+        },
+        "sub2":{
+            "title":"Alert service",
+            "des":"Detected road hazards and\nanomalies are delivered\nthrough real-time alerts",
+            "des1":"Enables immediate response, with automatic emergency\nalerts when risk thresholds are exceeded.",
+            "des2":"The system enhances both efficiency and speed in road\nsafety management."
+        }
+    },
+     "section5":{
+        "des": "Collecting, processing, and analyzing road data with AI and drones,",
+        "des1": "delivered through a user-friendly dashboard.",
+        "sub":{
+             "title":"Data Collection",
+             "des":"High-resolution drone imagery\nprecisely captures road conditions",
+             "des1":"Images are collected from multiple angles and routes to\ncomprehensively record overall road conditions"
+        },
+        "sub1":{
+             "title":"AI Detection",
+             "des":"AI detects cracks, potholes, and\nother potential hazards",
+             "des1":"Using object detection and segmentation, AI extracts\nlocation, severity, and area"
+        },
+        "sub2":{
+             "title":"Visualization & Alerts",
+             "des":"Visualization and real-time alerts\nenable instant decision-making",
+             "des1":"Alerts are sent instantly to designated personnel, enabling\nrapid response and decision-making"
+        },
+        "sub3":{
+             "title":"Preprocessing",
+             "des":"CfSM technology removes vehicles\nand shadows to reveal clear road\ndata",
+             "des1":"Reduces distortion and noise for higher accuracy"
+        }
+    },
+    "section6":{
+        "sub":{
+             "title":"Improved road safety",
+             "des":"D-ROAD helps prevent accidents and enhances overall safety",
+             "des1":"Conventional solutions are limited to specific hazards (e.g., potholes), but",
+             "des2":"D-ROAD detects multiple hazards simultaneously, including potholes, cracks, and debris.",
+             "des3":"AI quantitatively analyzes risk to effectively reduce the likelihood of traffic accidents."
+        },
+        "sub1":{
+             "title":"Efficient maintenance & cost reduction",
+             "des":"Manages hazards and infrastructure together to optimize maintenance",
+             "des1":"Traditional inspections depend on manual checks and sampling, with high costs and risk of omissions.",
+             "des2":"D-ROAD detects facilities like manholes and drains,\ncutting labor and time through drone surveys and AI automation."
+         
+        },
+        "sub2":{
+             "title":"Sustainable smart infrastructure",
+             "des":"Builds a management system scalable to smart cities",
+             "des1":"Conventional solutions rely on single platforms and post-event reports, slowing response.",
+             "des2":"D-ROAD drives instant action with real-time alerts, connecting with Digital Twin, ITS, and smart cities.",
+             "des3":"This enables continuous, eco-friendly infrastructure management and long-term smart city development."
+        }
+    },
+    "section7":{
+        "des": "가 제시하는 도로 관리의 비전입니다.",
+          "sub":{
+             "title":"Partnership",
+             "des":"We conduct pilot projects on real road sections in\ncollaboration with local governments.",
+             "des1":"Going forward, we will expand our ecosystem with partners in\ntransportation, safety, and smart cities."
+            
+        },
+        "sub1":{
+             "title":"Scope of Applications",
+             "des":"Detects hazards like cracks, potholes, and debris.",
+             "des1":"Manages facilities such as manholes, drains, and signs.",
+             "des2":"Extends to traffic monitoring and lane recognition."
+        },
+        "sub2":{
+             "title":"Key Challenges",
+             "des":"Enables early warnings for floods and collapses.",
+             "des1":"Evolves into smart city management with Digital Twin and ITS."
+        }
+        
+    },
+    "section8":{
+        "des": ", a new standard in road safety management powered by AI"
+    }
+
+}

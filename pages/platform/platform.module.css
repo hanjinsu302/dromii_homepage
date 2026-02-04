@@ -1,0 +1,397 @@
+
+
+    .MainContainer {
+        width: 100%;
+        height: max-content;
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+    }
+
+    .Mainback { 
+        grid-area: 1 / 1 / 6 / 6; 
+    }
+
+    .MainTT { 
+        grid-area: 3 / 1 / 4 / 3;
+        font-size: 2vw;
+        font-weight: 400;
+        padding-right: 2vw;
+        margin-left: 8vw;
+        color: white;
+        margin-top: 2vw;
+    }
+
+
+    .MainDS { 
+        grid-area: 4 / 1 / 5 / 4;
+        margin-left: 8vw;
+        font-size: 1vw;
+        color: white;
+        line-height: 2vw;
+        
+    }
+
+    .DaasImg,
+    .DaasDS,
+    .DaasTT{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        line-height: 2vw;
+        text-align: center;
+    }
+
+    .DaasContainer { 
+        grid-area: 1 / 1 / 14 / 12;
+    }
+
+    .DaasBack { 
+        grid-area: 1 / 1 / 11 / 12;
+        background-color: rgb(236, 236, 236);
+    }
+
+    .DaasT { 
+        grid-area: 1 / 5 / 3 / 8;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        font-size: 3vw;
+        font-weight: 800;
+    }
+
+    .DaasTT { 
+        grid-area: 3 / 3 / 4 / 10;
+        font-size: 2.5vw;
+        font-weight: 600;
+        align-items: end;
+    }
+
+    .DaasDS { 
+        grid-area: 4 / 3 / 6 / 10;
+        font-size: 1.3vw;
+    }
+
+    .DaasImg { 
+        grid-area: 6 / 3 / 14 / 10;
+        background-color: white;
+        border-radius: 1vw;
+        padding-top: 2vw;
+    }
+    .Daas3dContainer { 
+        grid-area: 1 / 1 / 10 / 12;
+    }
+
+    .Daas3dTT { grid-area: 4 / 2 / 6 / 4;
+        display: flex;
+        
+        align-items: start;
+        font-size: 2.5vw;
+        font-weight: 600;
+        padding-right: 2vw;
+        
+    }
+
+    .Daas3dDS { grid-area: 4 / 3 / 7 / 12;
+        font-size: 1.3vw;
+        line-height:2vw;
+        
+        padding-left: 3vw;
+        
+    }
+
+    .Daas3dImg{ grid-area: 6 / 2 / 18 / 11;
+        display: flex;
+     
+    }
+
+    .DaasPanoContainer { 
+        grid-area: 1 / 1 / 19 / 12; 
+    }
+
+    .DaasPanoTT { grid-area: 5 / 1 / 7 / 5;
+        display: flex;
+        align-items: center;
+        font-size: 2.5vw;
+        padding-left: 8vw;
+        font-weight: 600;
+    }
+    .DaasPanoLink { grid-area: 5 / 4 / 7 / 6;
+        display: flex;
+        
+        align-items: center;
+        font-size: 1.3vw;
+        padding-left: 1VW;
+    }
+
+    .DaasPanoDS { grid-area: 6 / 1 / 12 / 6;
+        display: flex;
+        font-size: 1.3vw;
+        padding-top: 5vw;
+        line-height: 2vw;
+        padding-left: 9vw;
+        padding-right: 2vw;
+        
+    }
+
+    .DaaspanoImg { 
+        grid-area: 3 / 6 / 12 / 12; 
+    }
+
+    .DTMContainer { 
+        grid-area: 1 / 1 / 1 / 12; 
+    }
+
+    .DTMBg { 
+        grid-area: 1 / 1 / 12/ 12;
+    }
+
+    .DTMBg2 { 
+        grid-area: 7 / 1 / 13 / 12;
+        background-color: rgb(0, 5, 36);
+    }
+
+    .DTMTT { grid-area: 2 / 3 / 3 / 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 3vw;
+        font-weight: 800;
+        color: white;
+
+    }
+
+    .DTMDS { 
+        grid-area: 3 / 2 / 4 / 11;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 2.5vw;
+        font-weight: 400;
+        color: white;
+    }
+
+    .DTMDS2{ grid-area: 4 / 2 / 5 / 11;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.3vw;
+        font-weight: 400;
+        line-height: 2vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        color: white;
+    }
+    .DTMImg { 
+        grid-area: 5 / 2 / 12 / 11;
+        padding-left: 6vw;
+        margin-top: 2vw;
+    }
+
+    .DTMmlContainer { 
+        grid-area: 1 / 1 / 14 / 12;
+        background-color: rgb(0, 5, 36);
+       
+    }
+    .DTMmlImg { 
+        grid-area: 1 / 2 / 12 / 7;
+        
+    }
+    .DTMmlDS { 
+        grid-area: 4 / 7 / 10 / 12;
+        font-size: 1.3vw;
+        font-weight: 400;
+        line-height: 2vw;
+        color: white;
+        /* text-align: right; */
+        padding-left: 5vw;
+        margin-left: 1vw;
+        padding-right: 8vw;
+        padding-top: 0.5vw;
+       
+    }
+    .DTMmlTT { grid-area: 2 / 7 / 4 / 12;
+        display: flex;
+        justify-content: start;
+        padding-right: 10vw;
+        font-size: 2.5vw;
+        font-weight: 600;
+        color: white;
+        padding-left: 4vw;
+       
+    }
+
+    .DTMalContainer { 
+        grid-area: 1 / 1 / 14 / 12;
+        background-color: rgb(0, 5, 36);
+       
+    }
+
+    .DTMalTT { 
+        grid-area: 3 / 1 / 5 / 5;
+        display: flex;
+        padding-left: 13.5vw;
+        align-items: end;
+        font-size: 2.5vw;
+        font-weight: 600;
+        color: white;
+       
+    }
+
+    .DTMalDS { 
+        grid-area: 5 / 2 / 10 / 6;
+        display: flex;
+        align-items: center;
+        padding-bottom: 30px;
+        font-size: 1.3vw;
+        font-weight: 400;
+        line-height: 2vw;
+        color: white;
+        padding-left: 3vw;
+       
+      
+    }
+
+    .DTMalImg { 
+        grid-area: 1 / 7 / 11 / 12; 
+       
+    }
+
+    .DTMalImg2 { 
+        grid-area: 8 / 3 / 13 / 6; 
+    }
+
+    .CfSMContainer { 
+        grid-area: 1 / 1 / 12 / 12; 
+    }
+    .CfSMTT { 
+        grid-area: 1 / 4 / 2 / 9;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 3vw;
+        font-weight: 600;
+        color: black;
+        
+        
+    }
+    .CfSMTS { 
+        grid-area: 1 / 3 / 3 / 5;
+        display: flex;
+        align-items: center;
+        font-size: 1vw;
+        font-weight: 400;
+        color: black;
+        margin-right: 0.5vw;   
+    }
+    .CfSMDS { 
+       grid-area: 2 / 3 / 3 / 10;
+       display: flex;
+        justify-content: center;
+        padding-top: 10px;
+        font-size: 2vw;
+        font-weight: 400;
+        line-height: 2vw;
+        color: black;
+        padding-left: 2vw;
+        /* background-color: aqua; */
+        
+    }
+    .CfSMLink { 
+        grid-area: 1 / 7 / 2 / 8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.3vw;
+        font-weight: 400;
+        line-height: 2vw;
+        color: black;
+    }
+    .CfSMDS2 { 
+        grid-area: 3 / 1 / 4 / 12;
+        font-size: 1.3vw;
+        font-weight: 400;
+        line-height: 2vw;
+        color: black;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding-left: 7vw;
+        padding-right: 7vw;
+       
+    }
+    .CfSMImg { 
+        grid-area: 4 / 1 / 12 / 12;
+        margin-top: 1vw;
+
+    }
+
+    .AfGGContainer { 
+        grid-area: 1 / 1 / 14 / 12;
+    }
+    .AfGGTT { 
+        grid-area: 1 / 4 / 2 / 9;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 3vw;
+        font-weight: 600;
+        color: black;
+       
+    }
+    .AfGGDS { 
+        grid-area: 2 / 3 / 3 / 10;
+       display: flex;
+        justify-content: center;
+        padding-top: 10px;
+        font-size: 2vw;
+        font-weight: 400;
+        line-height: 2vw;
+        color: black;
+        padding-left: 2vw;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 1.5vw;
+        margin-top: 0.5vw;
+    }
+    .AfGGLink { 
+        grid-area: 1 / 7 / 2 / 8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.3vw;
+        font-weight: 400;
+        line-height: 2vw;
+        color: black;
+    }
+    .AfGGDS2 { 
+        grid-area: 3 / 2 / 4 / 11;
+        font-size: 1.3vw;
+        font-weight: 400;
+        line-height: 2vw;
+        color: black;
+        text-align: center;
+    }
+    .AfGGDS3 { 
+        grid-area: 11 / 2 / 13 / 11;
+        display: flex;
+        font-size: 1.3vw;
+        font-weight: 400;
+        line-height: 2vw;
+        color: black;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 5vw;
+       
+    }
+    .AfGGImg { 
+        grid-area: 4 / 2 / 11 / 11;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }

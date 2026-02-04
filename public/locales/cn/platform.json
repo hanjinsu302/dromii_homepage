@@ -1,0 +1,44 @@
+{
+  "title": "云盘平台",
+  "description": "我们通过无人机的视频信息提供各种空间信息和服务。\n随时随地易于使用。",
+  "section1": {
+    "title": "DaaS",
+    "section1": {
+      "title": "Drone as a Service",
+      "description": "从无人机图像中提供3D和Pano地图创建空间信息，为了容易的访问这些都结果分析和报告予以提供URL形式。"
+    },
+    "section2": {
+      "title": "DaaS 3D",
+      "description": "在云盘平台上’拖拽&拖放’上传图像创建3D地理空间信息。全程基于nodes并列自动处理，给与多种分析结果和报告。"
+    },
+    "section3": {
+      "title": "DaaS Pano(360°)",
+      "description": "在云盘平台上’拖拽&拖放’上传图像创建3D地理空间信息。全程基于nodes并列自动处理，给与多种分析结果和报告。"
+    }
+  },
+  "section2": {
+    "title": "DTM",
+    "section1": {
+      "title": "Drone Traffic Mapper/ Drone to Mapper",
+      "description": "利用无人机的人工智能大脑和眼睛提供空中、水中和地面测量的新颖解决方法。"
+    },
+    "section2": {
+      "title": "DTM ML",
+      "description": "机器学习来用于分析无人图像将产生各种形式的结果，超出在现有设备采集数据的限制，用无人机就会有效地获取道路的整个车道和双向车道的信息。"
+    },
+    "section3": {
+      "title": "DTM AI",
+      "description": "无人机、人工智能、大数据、和区块链结合的DTM来构建各种设可用的基于状况的管理最优化系统并实现与原有系统的整合及连接。"
+    }
+  },
+  "section3": {
+    "title": "CfSM",
+    "subtitle": "Car-free Street Mapping",
+    "description": "无人机、人工智能、大数据、和区块链结合的DTM来构建各种设可用的基于状况的管理最优化系统并实现与原有系统的整合及连接。"
+  },
+  "section4": {
+    "title": "AfGG",
+    "subtitle": "(Auto-labeling 5G\nGeo-spatial Information HDS Map)",
+    "description": "AfGG solution creates an HDS (High-Definition Safety) Map with road marking information. AfGG solution utilizes DTM ML to auto label the road markings (double yellow line, crosswalk, stop line, etc.) or detect risk factors (pothole, crack, etc.) to gather road information.\n\n Through this technique, 4S Mapper has the ability to form a map with various road marking information/risk factors that focus on the concept of automobile safety."
+  }
+}

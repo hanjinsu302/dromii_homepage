@@ -1,0 +1,152 @@
+.SamplesDS { grid-area: 3 / 1 / 5 / 8; 
+    color: white;
+    font-size: 1.2vw;
+    line-height: 1.7vw;
+    margin-left: 8vw;
+    margin-top: 5vw;
+}
+.SamplesHD { grid-area: 1 / 1 / 2 / 9; }
+.btnContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.SamplesContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 3vw;
+    width: 100%;
+    height: max-content;
+}
+.SamplesItem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 23vw;
+    height: 18vw;
+    border-radius: 1vw;
+    margin: 3vw;
+    border: 2px solid rgb(151, 151, 151);
+}
+
+.SamplesItemImg{
+    width:95%;
+    height: 70%;
+    margin-bottom: 2vw;
+    
+}
+.skillDS { grid-area: 3 / 1 / 5 / 6;
+    font-size: 1.2vw;
+    margin-left: 10vw;
+    margin-top: 2.3vw;
+    padding-top: 3.2vw;
+    padding-left: 12vw;
+    line-height: 1.6vw;
+   
+ }
+.skillDS2 { grid-area: 6 / 5 / 4 / 9; 
+    font-size: 1.2vw;
+    padding-top: 1vw;
+    padding-left: 9vw;
+    line-height: 1.6vw;
+}
+
+
+
+
+
+.CfMSdesction { grid-area: 3 / 1 / 4 / 6;
+    font-size: 1.8vw;
+    margin-left: 4vw;
+    line-height: 2vw; 
+    padding-left: 2vw;
+}
+.CfMSImg{ grid-area: 4 / 1 / 9 / 9; 
+    padding-left: 5vw;
+    padding-right: 5vw;
+    height: max-content;
+}
+.CfMSdesction{
+    font-size: 1.3vw;
+   
+    font-weight: 600;
+   
+    line-height: 2vw; 
+
+}
+
+
+.Carfreetitle { grid-area: 3 / 1 / 4 / 4; 
+    font-size: 2.5vw;
+    padding-left: 6vw;
+    color: white;
+    font-weight: 800;
+}
+.Carfreedesction1 { grid-area: 4 / 1 / 4 / 4; 
+    display: flex;
+    padding-left: 6vw;
+    font-size: 1.3vw;
+    color: white;
+    font-weight: 500;
+    line-height: 2vw;
+   
+}
+.Carfreedesction2 { grid-area: 5 / 1 / 7 / 4; 
+    display: flex;
+    padding-left: 6vw;
+    font-size: 1.3vw;
+    color: white;
+    font-weight: 500;
+    line-height: 2vw;
+}
+.capturedesction,
+.processdesction
+ { 
+    display: flex;
+    align-items: center;
+    grid-area: 5 / 1 / 7 / 4;
+    font-size: 1.3vw;
+    line-height: 2vw;
+    font-weight: 600;
+    text-align: left;
+    margin-left: 8vw;
+}
+.combinedesction,
+.monitordesction{
+    display: flex;
+    align-items: center;
+    grid-area: 5 / 6 / 12 / 9;
+    font-size: 1.3vw;
+    line-height: 2vw;
+    font-weight: 600;
+    text-align: right;
+    margin-right: 8vw;
+   
+    justify-content: end;
+}
+.captureimg { 
+    grid-area: 4 / 4 / 7 / 8;
+
+    
+ }
+ 
+.CfMSdesction { grid-area: 3 / 1 / 4 / 3;
+    font-size: 1.8vw;
+    margin-left: 4vw;
+    line-height: 2vw; 
+}
+.CfMSImg{ grid-area: 4 / 1 / 9 / 9; 
+    padding-left: 5vw;
+    padding-right: 5vw;
+    height: max-content;
+}
+.CfMSdesction{
+    font-size: 1.3vw;
+    font-weight: 600;
+    line-height: 2vw; 
+
+}
+
+  

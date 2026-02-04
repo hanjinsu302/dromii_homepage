@@ -1,0 +1,33 @@
+{
+  "menu1": {
+    "name": "플랫폼",
+    "depth2": { "menu1": "플랫폼", "menu2": "Example", "menu3": "Drone map" }
+  },
+  "menu2": {
+    "name": "솔루션",
+    "depth2": { 
+      "menu2": "DaaS Pano",
+      "menu3": "3D Samples",
+      "menu4": "Processing \n Results",
+      "menu5": "Example",
+      "menu6": "Drone Map"
+    }
+  },
+  "menu3": "소프트웨어",
+  "menu4": {
+    "name": "하드웨어",
+    "depth2": {
+      "menu1": "판매상품",
+      "menu2": "운영상품",
+      "menu3": "센서"
+    }
+  },
+  "menu5": "회사 소개",
+  "menu6": "CONTACT",
+  "menu7":"제품",
+  "footer1":"개인정보취급방침",
+  "footer2":"내부정보관리규정",
+  "footer3":"영상 정보처리기기 운영관리 방침",
+  "v1":"기업 API 적용 사용자 전용",
+  "v2":"일반 사용자 전용"
+}

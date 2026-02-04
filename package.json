@@ -1,0 +1,32 @@
+{
+  "name": "dromii",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "bootstrap": "^5.3.3",
+    "eslint": "8.22.0",
+    "eslint-config-next": "13.2.4",
+    "i18next": "^22.4.13",
+    "lightbox2": "^2.11.4",
+    "next": "^13.5.6",
+    "next-i18next": "^15.4.2",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.10.2",
+    "react-compare-slider": "^3.0.1",
+    "react-dom": "18.2.0",
+    "react-i18next": "^12.2.0",
+    "react-images": "1.2.0-beta.7",
+    "react-photo-gallery": "^8.0.0",
+    "react-photo-gallery-next": "^8.0.1",
+    "react-slideshow-image": "^4.2.1",
+    "styled-components": "^5.3.9",
+    "styled-reset": "^4.4.5"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Platform",
+  "description": "Various spatial information and services are provided through\nvideo information by drones.\nYou can easily use them anytime, anywhere.",
+  "section1": {
+    "title": "DaaS",
+    "section1": {
+      "title": "Drone as a Service",
+      "description": "Provides 3D and Pano from drone images that are used for building spatial information in a form of URL for easier access to analyses and reports"
+    },
+    "section2": {
+      "title": "DaaS 3D",
+      "description": "Uploads the images taken for building 3D spatial data to the platform with simple 'drag & drop'.\nThe whole process automated with a parallel processing-based network provides various data analysis and reports"
+    },
+    "section3": {
+      "title": "DaaS Pano (360°)",
+      "description": "Makes HTML5-based results from several images \ngoing through 360° Panoramic platform and a real-time auto-process (with mosaic and color correction process), \nwhich automatically sends the result to users \nin any OS & device."
+    }
+  },
+  "section2": {
+    "title": "DTM",
+    "section1": {
+      "title": "Drone Traffic Mapper / Drone to Mapper",
+      "description": "DTM provides novel solutions of aerial, water surface & ground surveying with drone’s Artificial Intelligence (AI) brain and eyes. Drone images become more valuable with Data Science Technology"
+    },
+    "section2": {
+      "title": "DTM ML",
+      "description": "When ML (machine learning) techniques are applied to drone image analysis, various forms of results can be generated, and by using drones, information about the whole and two-way lanes of the road can be effectively obtained beyond the limits of data acquisition by existing equipment."
+    },
+    "section3": {
+      "title": "DTM AI",
+      "description": "Based on drones, artificial intelligence, big data, and blockchain, DTM provides a state-based management optimization system for various facilities and connections with existing systems."
+    }
+  },
+  "section3": {
+    "title": "CfSM",
+    "subtitle": "Car-free Street Mapping",
+    "description": "Based on DTM ML, it removes cars using deep learning algorithms, and those integrated images are combined to make car-free street maps. Also, it could be used for self-driving car simulation data with the real road information and HD Safety Map."
+  },
+  "section4": {
+    "title": "AfGG",
+    "subtitle": "Auto-labeling 5G Geo-spatial Information HDS Map",
+    "description1": "AfGG solution creates an HDS (High-Definition Safety) Map with road marking information.\nAfGG solution utilizes DTM ML to auto label the road markings (double yellow line, crosswalk, stop line, etc.)\nor detect risk factors (pothole, crack, etc.) to gather road information.",
+    "description2": "\nThrough this technique, DroMii has the ability to form a map with various road marking\n information risk factors that focus on the concept of automobile safety."
+  }
+  ,
+  "section5": {
+    "title": "3D Modeling",
+    "description": "Uploads the images taken for building 3D spatial data to the platform with simple 'drag & drop'.\nThe whole process automated with a parallel processing-based network provides various data analysis and reports"
+    
+  }
+  
+}

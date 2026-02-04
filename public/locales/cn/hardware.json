@@ -1,0 +1,164 @@
+{
+  "name": "硬件产品",
+  "operational": {
+    "name": "运用产品",
+    "product": {
+      "Phantom4Pro": "Sentera NIR Sensor 运用",
+      "Mavic2Pro": "Sentera NIR Sensor 运用",
+      "M210RTK": "RTK Base Station 运用",
+      "Phantom4Pro2": "运用 2台",
+      "Phantom3Pro": "拥有1台（教育用）",
+      "Solo": "拥有1台（测试用）"
+    }
+  },
+  "sensors": {
+    "name": "载荷",
+    "product": {
+      
+      "psdk": {
+        "name": "PSDK 102S V3",
+        "description": "PSDK 102S V3-5-way inclined camera",
+        "spec": "Dimensions & Weight: 193 x 172 x 180 mm; 1041g \n Super Durable S-GS Global Shutter \n Effective Pixels: Over 25 million pixels single lens; totalling exceeding 125 Million Pixels \n Sensor Specifications: Size - 23.1 x 15.4 mm, Pixel Size - 3.76um \n Lens Focal Length: Oblique - 35mm, Orthophoto - 25mm \n Storage Capacity: 1280 GB",
+        "link": "https://www.shareuavtec.com/V3S"
+      }
+      ,
+      "203s": {
+        "name": "SHARE 203S PRO",
+        "description": "SHARE 203S PRO - 225 MP Five-lenses Oblique Camera",
+        "spec": "Dimensions & Weight: 182 x 203 x 196 mm; 1280g \n Effective Pixels: 45 million pixels single lens, totalling 225 million pixels \n Sensor Specifications: Size - 36 x 24 mm; Pixel Size - 4.4μm \n Lens Focal Length: Oblique - 56mm, Orthophoto - 40mm \n Storage Capacity: Dual 1280GB storage modules",
+        "link": "https://www.shareuavtec.com/203"
+      }
+      ,
+      "304s": {
+        "name": "SHARE 304S PRO",
+        "description": "305 MP Five-lenses Oblique Camera",
+        "spec": "Dimensions & Weight: 182 x 203 x 196 mm; 1280g \n Effective Pixels: 61 million pixels single lens, totalling 305 million pixels \n Sensor Specifications: Size - 36 x 24 mm; Pixel Size - 3.76μm \n Lens Focal Length: Oblique - 56mm, Orthophoto - 40mm \n Storage Capacity: Dual 1280GB storage modules ",
+        "link": "https://www.shareuavtec.com/304"
+      }
+      ,
+      "100m": {
+        "name": "SHARE 100M PRO",
+        "description": "Extended Vision, Immersive Reality",
+        "spec":"Dimensions & Weight: 133 x 184 x 162 mm; 880g \n Effective Pixels: 102 million pixels \n  Sensor Specifications: IMX461, Size - 43.8 x 32.9 mm, Pixel Size - 3.76um \n Lens Focal Length: 50mm/70mm\n Storage Capacity: Dual 512GB storage modules",
+        "link": "https://www.shareuavtec.com/100m"
+      }
+      ,
+      "6100x": {
+        "name": "SHARE 6100X",
+        "description": "SHARE 6100X - Full Frame Single LensAerial Camera",
+        "spec": "Dimensions & Weight: 128 x 181 x 153 mm; 640g \n Effective Pixels: 61million pixels \n  Sensor Specifications: Size - 36 x 24 mm; Pixel Size - 3.76μm \n Lens Focal Length: Standard 40mm, Customizable to 56mm \n Storage Capacity: 512 GB",
+        "link": "https://www.shareuavtec.com/6100x"
+      }
+      ,
+      "26000sdk": {
+        "name": "SHARE 2600 SDK",
+        "description": "SHARE 2600 SDK -Three-Axis Gimbal Aerial Survey Camera",
+        "spec": "Sensor Size: 23.1 X 15.4 mm \n Image Size 6144 X 4069 px \n Without Gimbal: 230g \n Working Temperature: -10°C ~ +40°C \n IP Level: IP53",
+        "link": "https://www.shareuavtec.com/2600"
+      },
+      "quad": {
+        "name": "Quad 61MP",
+        "description": "",
+        "spec": "",
+        "link": "https://unmannedrc.com/products/adti-quad-61mp-3-axis-gimbal-camera-for-dji-matrice-300"
+      },
+      "dgs": {
+        "name": "DGS QGC Mission Planner Ground Control Staton for Commerical UAV",
+        "description": "",
+        "spec": "",
+        "link": "https://unmannedrc.com/collections/ground-control-station/products/dgs-qgc-mission-planner-ground-control-staton-for-commerical-uav"
+      },
+      "t2": {
+        "name": "SHARE T2",
+        "description": "SHARE T2-Triple Lens Oblique Camera",
+        "spec": "",
+        "link": "https://www.shareuavtec.com/T2"
+      },
+      "bl100": {
+        "name": "BLV BL100 Pro",
+        "description": "BLV BL100 Pro",
+        "spec": "Sensor Size: APS-C (23.5*15.6mm) \n Pixel Size: 3.91 um \n Image Resolution: 3:2 （6000 × 4000） \n Working Temperature: -10 ℃ ~ 40 ℃ \n Storage: 1280 GB",
+        "link": ""
+      },
+      "rs10": {
+        "name": "RS10",
+        "description": "Handheld Slam 3D Laser Scanner + GNSS RTK System",
+        "spec": "Total Weight [kg]: 1.9 kg (including RTK and battery) \n Humidity range [%]: 80%, non-condensing \n Working Temperature: -20 ℃ ~ 50 ℃ ",
+        "link": ""
+      }
+      
+
+    }
+  },
+  "sales": {
+    "name": "销售产品",
+    "product": {
+      "psdk": {
+        "name": "PSDK 102S V3",
+        "description": "PSDK 102S V3-5-way inclined camera",
+        "spec": "Dimensions & Weight: 193 x 172 x 180 mm; 1041g \n Super Durable S-GS Global Shutter \n Effective Pixels: Over 25 million pixels single lens; totalling exceeding 125 Million Pixels \n Sensor Specifications: Size - 23.1 x 15.4 mm, Pixel Size - 3.76um \n Lens Focal Length: Oblique - 35mm, Orthophoto - 25mm \n Storage Capacity: 1280 GB"
+      },
+      "alpha": {
+        "name": "AlphaAir",
+        "description": "",
+        "spec": "Sensor size: 36 × 24 mm (8184 × 5460)\nWeight of instrument: 1.55 kg\nData storage: 512 G*2\nPixel size: 4.4 μm\nStorage temperature:-20°C to +60°C\n"
+      },
+      "bl100": {
+        "name": "BLV BL100 Pro",
+        "description": "BLV BL100 Pro",
+        "spec": "Sensor Size: APS-C (23.5*15.6mm) \n Pixel Size: 3.91 um \n Image Resolution: 3:2 （6000 × 4000） \n Working Temperature: -10 ℃ ~ 40 ℃ \n Storage: 1280 GB"
+      },
+      "obliquecamera": {
+        "name": "Professional Mapping Oblique Camera for UAV Aerial(120MP)",
+        "description": "OBLIQUE CAMERA SURVEYOR 5 STANDARD with smart camera system",
+        "spec": "Sensor : APS-C CMOS(23.5X15.6mm)\nLens : 25mm/35mm\nPixels Number : 24MP\nTotal Pixels : 120MP\nOblique Lens Angle : 45 degree\nTotal Memory : 320GB\nWorking Temperature : -10°C ~ +40°C"
+      },
+      "fixar": {
+        "name": "FIXAR 007",
+        "description": "Cost-Effective Drone Solution for Commercial Operations",
+        "spec": "- FLIGHT DISTANCE : 60 km (37.2 mi)\n- Setup time of less than 2 min\n- Aircraft type : Hybrid (VTOL & fixed-wing)\n- Wingspan : 1640 mm (5.4 ft)\n- Number of rotors : 4\n- Maximum take-off weight (MTOW) : 7 kg (15.4 lbs)\n- Max payload weight : 2 kg (4.4 lbs)\n- Maximum telemetry range : 40 km (24.9 mi)"
+      },
+      "Automoving": {
+        "name": "Auto Moving Light for DJI Mavic 3",
+        "description": "TACTICAL LIGHTING RESPONDER KIT",
+        "spec": "Powerful 10,000 Lumens Brightness: See the big picture in the dark.\n Patented Camera-Tracking Drone Light: For enhanced situational awareness at night.\n Continuous Lighting with Rechargeable External Batteries: The light’s battery life matches the drone’s flight time.\n Perfectly designed for DJI Mavic 3 and next products: \n Easy to mount and DJI remote controlled.\n Built-in Anti-Collision Lights: FAA-compliant for safer night flights.\n Robust and Reliable: Dust and water repellent."
+      }
+      
+    }
+  },
+  "operationals": {
+    "name" : "经营产品",
+    "product": {
+      "phantom4pro": {
+        "name": "Phantom 4 Pro",
+        "description": ""
+      },
+      "mavic2pro": {
+        "name": "Mavic 2 Pro",
+        "description": "",
+        "spec": ""
+      },
+      "m210rtk": {
+        "name": "M210 RTK",
+        "description": "",
+        "spec": ""
+      },
+      "phantom4pro2": {
+        "name": "Phantom 4 Pro",
+        "description": "",
+        "spec": ""
+      },
+      "phantom3pro": {
+        "name": "Phantom 3 Pro",
+        "description": "",
+        "spec": ""
+      },
+      "solo": {
+        "name": "Solo",
+        "description": "",
+        "spec": ""
+      }
+    }
+
+  }
+}

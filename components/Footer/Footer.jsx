@@ -36,7 +36,7 @@ const Footer = () => {
         <a className={styles.footerlogotext} href='http://k-aquas.dromii.com/'>K-AQUAS</a>
         <a className={styles.footerlogotext} href='http://v4.dromii.com/'>K360REA</a>
         </div> */}
-        <div className={styles.div7}>Copyright © 2025 DroMii all right reserved</div>
+        <div className={styles.div7}>Copyright © 2026 DroMii all right reserved</div>
       
         </div>
         <div className={styles.footerinfo}>

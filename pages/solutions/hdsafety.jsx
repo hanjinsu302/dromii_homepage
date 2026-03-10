@@ -44,6 +44,8 @@ return(
     <img src={hdsafetyplatformimg[2]}style={{width:'90%'}}/>
     <Title>{t('section4.subtitle')}</Title>
     <Description>{t('section4.description1')}</Description>
+    
+
   </ImgSection>
   
   <ImgSection >
@@ -105,7 +107,7 @@ export default Hdsafety;
        width: 65vw;
        display: flex;
        font-size: 1.3vw;
-       font-weight: 500;
+       font-weight: 600;
        line-height: 2vw;
        margin-top: 15%;
        margin-left: 11%;

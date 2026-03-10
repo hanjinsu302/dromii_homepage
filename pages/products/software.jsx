@@ -139,7 +139,8 @@
         line-height:3vw;
         
       }
-      
+      color: #848484;
+
   `;
 
   const MainBanner = styled.div`

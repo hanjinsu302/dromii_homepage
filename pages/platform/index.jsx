@@ -99,7 +99,7 @@ return (
     <div className={styles.Mainback} >
       <img src={bannerImg[0]} alt="Mainbanner" style={{width:'100%'}} />
     </div>
-    <div className={styles.MainTT}>Drone as a Service</div>
+    {/* <div className={styles.MainTT}>Drone as a Service</div> */}
     <div className={styles.MainDS} >{t('description')}</div>
   </div>
   <Section ref={daasRef} style={{paddingTop:'6vw'}}>

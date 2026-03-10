@@ -348,7 +348,7 @@ return (
     <img src={mainimg[0]} alt='main image' style={{width:'100%'}} />
   </MainBanner>
   <Section>
-    <H2>{t('Main.title')}</H2>
+    {/* <H2>{t('Main.title')}</H2> */}
     <br />
     <H2 style={{marginTop:'2vw'}}>{t('Main.description')}</H2>
     <br />
@@ -372,7 +372,7 @@ return (
         <H1>PLATFORM</H1>
       </div>
       <div className={styles.MainPlatformDS}>
-        <H4> {t('Platform.description')}</H4>
+        <div> {t('Platform.description')}</div>
       </div>
       <div className={styles.MainPlatformLM}>
         <Link href='platform' className='MainPlatformLink' style={{color:'black', fontSize:'1.3vw'}}>

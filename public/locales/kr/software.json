@@ -18,24 +18,24 @@
   },
   "section5": {
     "title": "",
-    "description": "DroMii는\n이미지 생성 및 Geo 소프트웨어\n서비스를 제공합니다."
+    "description": "DroMii는 이미지 처리 및 공간 데이터 분석을 위한\nGeo 소프트웨어 서비스를 제공합니다."
   },
   "section6": {
-    "section1":{
+    "section1": {
       "title": "Metashape",
-    "description":"디지털 이미지의\n사진 측량 처리 및 3D 공간\n데이터 생성"
-  },
-  "section2":{
-    "title": "Global Mapper",
-  "description":"공간 정보를 위한\n필수 소프트웨어"
-  },
-  "section3":{
-    "title": "Correlator3D",
-  "description":"드론, 항공기 및 위성의\n이미지를 빠르게 처리"
-  },
-  "section4":{
-    "title": "Training & Education",
-  "description":"드론과 관련된 기초, 고급\n및 전문\n과정을 만나보실 수 있습니다."
-  }
+      "description": "디지털 이미지를 활용한 사진측량 처리 및\n3D 공간 데이터 생성"
+    },
+    "section2": {
+      "title": "Global Mapper",
+      "description": "공간 데이터 분석과 지리 정보 처리를 위한\n필수 GIS 소프트웨어"
+    },
+    "section3": {
+      "title": "Correlator3D",
+      "description": "드론, 항공, 위성 영상을 빠르게 처리하는\n3D 매핑 소프트웨어"
+    },
+    "section4": {
+      "title": "Training & Education",
+      "description": "드론 기술과 공간 데이터 활용을 위한\n기초·고급 전문 교육 과정"
+    }
   }
 }

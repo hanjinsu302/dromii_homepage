@@ -18,25 +18,25 @@
   },
   "section5": {
     "title": "",
-    "description": "DroMii's services are \npowered by \ngrateful image generation \nand Geo software."
+    "description": "DroMii provides Geo software services\nfor image processing and spatial data analysis."
   },
   "section6": {
-    "section1":{
+    "section1": {
       "title": "Metashape",
-    "description":"Photogrammetric processing of\ndigital images and 3D spatial\ndata generation"
-  },
-  "section2":{
-    "title": "Global Mapper",
-  "description":"Essential Software for Spatial\ninformation"
-  },
-  "section3":{
-    "title": "Correlator3D",
-  "description":"Rapid processing of imagery\nfrom drones, aircrafts and\nsatellites"
-  },
-  "section4":{
-    "title": "Training & Education",
-  "description":"You can meet basic, advanced\nand specialized courses\nrelated to drones"
-  }
+      "description": "Photogrammetry processing and 3D spatial data generation from digital imagery"
+    },
+    "section2": {
+      "title": "Global Mapper",
+      "description": "Essential GIS software for spatial data analysis\nand geospatial processing"
+    },
+    "section3": {
+      "title": "Correlator3D",
+      "description": "High-speed 3D mapping software for drone, aerial, and satellite imagery"
+    },
+    "section4": {
+      "title": "Training & Education",
+      "description": "Professional training programs for drone technology and spatial data applications"
+    }
   }
 
 }

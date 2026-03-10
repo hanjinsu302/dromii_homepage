@@ -6,11 +6,11 @@
     "description": "Removes car images on the road using the deep learning technique and drone-taken images.",
     "section1": {
       "title": "CAR-free STREET MAPPING",
-      "description": "Removes car images on the road using the deep learning technique \nand drone-taken images. "
+      "description": "Removes car images on the road using the deep learning technique and drone-taken images. "
     },
     "section2": {
       "title": "3D MODELING",
-      "description": "Creates 2.5D to 3D models from the drone-taken images using the \nmulti-directional cameras. "
+      "description": "Creates 2.5D to 3D models from the drone-taken images using the multi-directional cameras. "
     },
     "section3": {
       "title": "HD SAFETY MAP",
@@ -22,26 +22,27 @@
     }
   },
   "section2": {
-    "title": "Car-free Street Map",
-    "description": "Deep Learning and Drone-based Automated Image \nRemoval Solution for Vehicles on the Road",
-    "description2": "An innovative service that will replace the traditional road monitoring system."
+    "title": "Car-free Street Mapping",
+    "description": "An image processing solution that automatically removes vehicles from road imagery using deep learning and drone technology.",
+    "description2": "An innovative service that overcomes the limitations of traditional road monitoring by generating clean and accurate road data."
   },
-  "section3":{
+  
+  "section3": {
     "section1": {
       "title": "Capture",
-      "description": "Capture enough data to create \na dataset using the drone. \nThe data type must be in image format."
+      "description": "Drones capture sufficient data required for analysis.\nThe collected data is in image format."
     },
     "section2": {
       "title": "Combine",
-      "description": "Combine the tile dataset into\none whole road  image \nfor the preparation of data processing."
+      "description": "Multiple tile-based datasets are combined\ninto a single complete road image for analysis."
     },
     "section3": {
-      "title": "process",
-      "description": "Process the dataset through CfSM solution to get rid of car/shadow images from the road. \nThe successful result would have a clear road without any distortion."
+      "title": "Process",
+      "description": "The CfSM solution processes the dataset\nto automatically remove vehicles and shadows from road imagery.\nThis results in clean road images without distortion."
     },
     "section4": {
-      "title": "monitor",
-      "description": "Monitor the status of the road using \nCfSM processed image. \nDetect the condition of the road by running an analysis on the server."
+      "title": "Monitor",
+      "description": "Using CfSM-processed imagery,road conditions can be continuously monitored.\nServer-based analysis detects and evaluates road conditions."
     }
   },
   "section4": {

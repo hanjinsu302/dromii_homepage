@@ -37,6 +37,8 @@
         align-items: center;
         justify-content: start;
         line-height: 2vw;
+        font-size: 1.5vw;
+        font-weight: 600;
         
    }
     .MainPlatformLM { 
@@ -45,6 +47,7 @@
         padding-top: 5.5vw;
         font-size: 1vw;
         padding-right: 2.5vw;
+                font-weight: 800;
     }
     .MainPlatformLink{
         font-size: 1.5vw;
@@ -82,12 +85,16 @@
     }
     .box_p{
         margin-top: 8vw;
+        font-weight: 600;
     }
     .main_p{
         font-size: 1vw;
+        font-weight: 600;
         text-align: center;
         margin-top: 2vw;
         line-height: 1.5vw;
+        color: #848484;
+
     }
 
     .Sw_Container{

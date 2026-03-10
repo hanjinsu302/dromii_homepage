@@ -3,7 +3,7 @@
         "des":"AI and drone-based security\nmanagement solution"
     },
     "section1":{
-        "des": "Potholes, cracks, and aging infrastructure pose serious safety risks, yet traditional\ninspections rely on time-consuming manual work, limiting real-time detection and\nresponse.",
+        "des": "Potholes, cracks, and aging infrastructure pose serious safety risks, yet traditional inspections rely on\ntime-consuming manual work, limiting real-time detection and response.",
         "des1": "Risks from\npotholes & cracks",
         "des2": "Limited\nmanpower & time",
         "des3": "Lack of\nreal-time data",
@@ -15,7 +15,7 @@
     "section3":{
         "title":"CfSM (Car-free Street Mapping)",
         "des": "AI automatically removes\nvehicles and shadows to\ngenerate clear road maps",
-        "des1": "D-ROAD reveals markings, sidewalks, and facilities hidden by vehicles\nand shadows, enabling precise analysis and data use",
+        "des1": "CfSM reveals markings, sidewalks, and facilities hidden by vehicles\nand shadows, enabling precise analysis and data use",
         "des2": "It provides high-quality datasets for HD maps, asset management,\nurban planning, and broader applications"
     },
     "section4":{

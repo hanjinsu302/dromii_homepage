@@ -397,7 +397,7 @@ export default Portfolio;
        width: 60vw;
        display: flex;
        font-size: 1.3vw;
-       font-weight: 500;
+       font-weight: 600;
        line-height: 2vw;
        margin-top: 15%;
        margin-left: 4.5%;

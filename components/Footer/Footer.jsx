@@ -45,7 +45,7 @@ const Footer = () => {
             <div className={styles.div2}>TEL</div>
             <div className={styles.div3}>FAX</div>
             <div className={styles.div4}>#205, 2F, E Dong (Seoul AI Hub) 39, Maeheon-ro 8-gil, Seocho-gu, Seoul, Korea, 06770</div>
-            <div className={styles.div5}>+82 70 8806 0670</div>
+            <div className={styles.div5}>+82 70 8721 4396</div>
             <div className={styles.div6}>+82 504 400 4396</div>
             {/* <div className={styles.div7}>Copyright © 2025 DroMii all right reserved</div> */}
             <Link legacyBehavior href='/Personalinformation'>
